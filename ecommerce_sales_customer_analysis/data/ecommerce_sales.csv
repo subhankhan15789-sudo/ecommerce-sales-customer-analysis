@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer,City,Product,Category,Quantity,Unit_Price,Sales,Profit,Payment_Method
+ORD-00549,2025-01-01,Customer_0467,Lahore,Wireless Earbuds,Electronics,3,25700,77100,17669.55,Bank Transfer
+ORD-00350,2025-01-01,Customer_0265,Multan,Vacuum Cleaner,Home,1,13300,13300,3336.18,EasyPaisa
+ORD-00465,2025-01-01,Customer_0218,Islamabad,Wireless Earbuds,Electronics,1,27900,27900,4819.47,Cash on Delivery
+ORD-00935,2025-01-02,Customer_0177,Multan,Keyboard,Electronics,2,16900,33800,2857.73,Bank Transfer
+ORD-00293,2025-01-03,Customer_0061,Karachi,Sunglasses,Accessories,1,2500,2500,548.64,EasyPaisa
+ORD-00006,2025-01-03,Customer_0391,Multan,Keyboard,Electronics,2,22300,44600,4589.61,EasyPaisa
+ORD-00605,2025-01-03,Customer_0411,Faisalabad,Coffee Maker,Home,2,8000,16000,2886.82,JazzCash
+ORD-00855,2025-01-03,Customer_0486,Lahore,Bluetooth Speaker,Electronics,1,15000,15000,3184.91,JazzCash
+ORD-00713,2025-01-03,Customer_0289,Hyderabad,Coffee Maker,Home,1,6700,6700,944.16,JazzCash
+ORD-00593,2025-01-04,Customer_0411,Faisalabad,Coffee Maker,Home,2,15000,30000,2675.62,Bank Transfer
+ORD-00999,2025-01-05,Customer_0185,Hyderabad,Power Bank,Electronics,2,26900,53800,7907.13,Card
+ORD-00196,2025-01-05,Customer_0358,Faisalabad,Sunglasses,Accessories,4,5200,20800,4217.53,JazzCash
+ORD-00707,2025-01-05,Customer_0072,Karachi,Keyboard,Electronics,1,23000,23000,5095.89,Cash on Delivery
+ORD-00740,2025-01-06,Customer_0115,Karachi,Smart Watch,Electronics,3,25300,75900,17750.59,EasyPaisa
+ORD-00206,2025-01-06,Customer_0052,Lahore,Backpack,Accessories,1,1200,1200,108.41,JazzCash
+ORD-00567,2025-01-06,Customer_0063,Islamabad,Storage Box,Home,1,5700,5700,1404.8,Cash on Delivery
+ORD-00423,2025-01-06,Customer_0250,Lahore,Smart Watch,Electronics,1,24700,24700,3239.56,Cash on Delivery
+ORD-00480,2025-01-07,Customer_0466,Karachi,Vacuum Cleaner,Home,1,4600,4600,1065.36,JazzCash
+ORD-00082,2025-01-07,Customer_0289,Hyderabad,Keyboard,Electronics,1,25300,25300,3406.33,Card
+ORD-00354,2025-01-07,Customer_0002,Islamabad,Keyboard,Electronics,2,22600,45200,6360.39,Cash on Delivery
+ORD-00558,2025-01-07,Customer_0174,Islamabad,Keyboard,Electronics,1,5200,5200,1198.22,JazzCash
+ORD-00191,2025-01-08,Customer_0052,Multan,Vacuum Cleaner,Home,2,8800,17600,4551.54,Cash on Delivery
+ORD-00088,2025-01-09,Customer_0495,Hyderabad,Perfume,Beauty,2,2700,5400,1059.47,Bank Transfer
+ORD-00844,2025-01-10,Customer_0224,Peshawar,Smart Watch,Electronics,3,22300,66900,7655.65,EasyPaisa
+ORD-00947,2025-01-10,Customer_0094,Karachi,Wallet,Accessories,5,3600,18000,2253.07,Cash on Delivery
+ORD-00320,2025-01-10,Customer_0244,Islamabad,Power Bank,Electronics,2,12000,24000,6392.61,EasyPaisa
+ORD-00591,2025-01-10,Customer_0392,Karachi,Sunglasses,Accessories,2,2100,4200,448.29,EasyPaisa
+ORD-00098,2025-01-11,Customer_0079,Karachi,Keyboard,Electronics,1,17700,17700,2078.83,JazzCash
+ORD-00387,2025-01-11,Customer_0005,Rawalpindi,Vacuum Cleaner,Home,4,10800,43200,7491.25,Bank Transfer
+ORD-00789,2025-01-11,Customer_0369,Lahore,Bluetooth Speaker,Electronics,1,11200,11200,2372.38,EasyPaisa
+ORD-00455,2025-01-11,Customer_0342,Hyderabad,Wireless Earbuds,Electronics,1,9000,9000,1230.76,Card
+ORD-00969,2025-01-11,Customer_0453,Hyderabad,Table Lamp,Home,1,15600,15600,1722.99,Bank Transfer
+ORD-00424,2025-01-12,Customer_0199,Faisalabad,Phone Case,Accessories,1,3500,3500,738.71,EasyPaisa
+ORD-00213,2025-01-12,Customer_0137,Karachi,Keyboard,Electronics,1,11900,11900,1011.99,Cash on Delivery
+ORD-00365,2025-01-12,Customer_0330,Multan,Power Bank,Electronics,1,21600,21600,5439.65,Cash on Delivery
+ORD-00587,2025-01-12,Customer_0348,Rawalpindi,Perfume,Beauty,2,5200,10400,1237.9,EasyPaisa
+ORD-00943,2025-01-13,Customer_0203,Islamabad,Bluetooth Speaker,Electronics,2,22300,44600,11006.06,Bank Transfer
+ORD-00609,2025-01-13,Customer_0331,Islamabad,Wireless Earbuds,Electronics,1,22800,22800,5149.34,Cash on Delivery
+ORD-00216,2025-01-13,Customer_0370,Faisalabad,Face Wash,Beauty,2,2400,4800,424.76,EasyPaisa
+ORD-00329,2025-01-13,Customer_0052,Karachi,Perfume,Beauty,1,3400,3400,566.69,Cash on Delivery
+ORD-00043,2025-01-14,Customer_0079,Karachi,Makeup Kit,Beauty,2,6100,12200,2930.35,Cash on Delivery
+ORD-00338,2025-01-14,Customer_0007,Multan,Sunglasses,Accessories,2,3000,6000,1625.12,Cash on Delivery
+ORD-00139,2025-01-14,Customer_0185,Islamabad,Table Lamp,Home,4,13100,52400,4664.8,JazzCash
+ORD-00733,2025-01-14,Customer_0484,Lahore,Power Bank,Electronics,2,11000,22000,3635.95,JazzCash
+ORD-00854,2025-01-14,Customer_0487,Karachi,Perfume,Beauty,2,6700,13400,1760.95,JazzCash
+ORD-00977,2025-01-14,Customer_0466,Faisalabad,Sunglasses,Accessories,2,4300,8600,834.3,Bank Transfer
+ORD-00787,2025-01-15,Customer_0449,Karachi,Makeup Kit,Beauty,2,1900,3800,831.6,Card
+ORD-00788,2025-01-16,Customer_0423,Karachi,Keyboard,Electronics,2,5000,10000,2696.81,Cash on Delivery
+ORD-00535,2025-01-16,Customer_0355,Peshawar,Power Bank,Electronics,1,3600,3600,434.72,Card
+ORD-00860,2025-01-16,Customer_0179,Peshawar,Storage Box,Home,1,12400,12400,2010.03,Card
+ORD-00469,2025-01-17,Customer_0170,Faisalabad,Travel Mug,Accessories,5,5200,26000,5868.69,EasyPaisa
+ORD-00598,2025-01-18,Customer_0238,Islamabad,Table Lamp,Home,4,14000,56000,11938.24,JazzCash
+ORD-00934,2025-01-18,Customer_0012,Lahore,Perfume,Beauty,2,4200,8400,1196.24,EasyPaisa
+ORD-00145,2025-01-18,Customer_0467,Karachi,Bluetooth Speaker,Electronics,1,16700,16700,2010.24,Cash on Delivery
+ORD-00608,2025-01-19,Customer_0014,Karachi,Backpack,Accessories,3,900,2700,678.33,Cash on Delivery
+ORD-00638,2025-01-19,Customer_0161,Hyderabad,Wallet,Accessories,1,2100,2100,362.38,EasyPaisa
+ORD-00074,2025-01-19,Customer_0318,Karachi,Wireless Earbuds,Electronics,1,20100,20100,3282.77,Bank Transfer
+ORD-00861,2025-01-19,Customer_0180,Karachi,Coffee Maker,Home,2,5200,10400,1169.73,JazzCash
+ORD-00237,2025-01-19,Customer_0050,Islamabad,Travel Mug,Accessories,2,2500,5000,921.44,JazzCash
+ORD-00174,2025-01-19,Customer_0270,Faisalabad,Travel Mug,Accessories,3,3400,10200,2405.71,Bank Transfer
+ORD-00030,2025-01-19,Customer_0345,Peshawar,Backpack,Accessories,3,4800,14400,3002.35,Cash on Delivery
+ORD-00442,2025-01-20,Customer_0114,Faisalabad,Coffee Maker,Home,1,10300,10300,1875.96,Cash on Delivery
+ORD-00495,2025-01-20,Customer_0315,Rawalpindi,Wallet,Accessories,2,4100,8200,1789.46,JazzCash
+ORD-00160,2025-01-22,Customer_0383,Hyderabad,Power Bank,Electronics,3,19700,59100,7856.89,Card
+ORD-00670,2025-01-22,Customer_0442,Peshawar,Coffee Maker,Home,2,7200,14400,2755.21,JazzCash
+ORD-00225,2025-01-23,Customer_0272,Lahore,Keyboard,Electronics,1,7000,7000,1043.54,Bank Transfer
+ORD-00526,2025-01-23,Customer_0020,Karachi,Coffee Maker,Home,3,11400,34200,4062.96,JazzCash
+ORD-00664,2025-01-23,Customer_0325,Peshawar,Skin Serum,Beauty,3,5100,15300,2405.26,Card
+ORD-00548,2025-01-23,Customer_0394,Hyderabad,Skin Serum,Beauty,2,3500,7000,1958.41,Bank Transfer
+ORD-00573,2025-01-24,Customer_0337,Karachi,Hair Dryer,Beauty,3,2700,8100,1131.93,JazzCash
+ORD-00810,2025-01-24,Customer_0437,Karachi,Power Bank,Electronics,1,24300,24300,6471.36,JazzCash
+ORD-00959,2025-01-24,Customer_0258,Karachi,Hair Dryer,Beauty,3,4000,12000,1288.77,JazzCash
+ORD-00430,2025-01-24,Customer_0382,Karachi,Smart Watch,Electronics,3,12400,37200,8095.18,Card
+ORD-00304,2025-01-24,Customer_0192,Karachi,Hair Dryer,Beauty,5,700,3500,724.88,Bank Transfer
+ORD-00556,2025-01-24,Customer_0309,Lahore,Keyboard,Electronics,2,24800,49600,5448.77,Cash on Delivery
+ORD-00141,2025-01-24,Customer_0145,Hyderabad,Vacuum Cleaner,Home,1,17400,17400,3855.3,Bank Transfer
+ORD-00233,2025-01-25,Customer_0373,Lahore,Keyboard,Electronics,1,27600,27600,4956.95,Cash on Delivery
+ORD-00436,2025-01-25,Customer_0294,Rawalpindi,Keyboard,Electronics,3,19900,59700,13631.78,Cash on Delivery
+ORD-00561,2025-01-25,Customer_0226,Peshawar,Storage Box,Home,2,2400,4800,1064.68,JazzCash
+ORD-00149,2025-01-25,Customer_0121,Rawalpindi,Vacuum Cleaner,Home,2,17700,35400,6198.97,Bank Transfer
+ORD-00235,2025-01-26,Customer_0475,Faisalabad,Power Bank,Electronics,2,3500,7000,593.26,Bank Transfer
+ORD-00498,2025-01-26,Customer_0345,Lahore,Makeup Kit,Beauty,2,2000,4000,1051.2,JazzCash
+ORD-00582,2025-01-28,Customer_0254,Rawalpindi,Coffee Maker,Home,2,6500,13000,2106.13,EasyPaisa
+ORD-00280,2025-01-28,Customer_0112,Faisalabad,Phone Case,Accessories,3,4200,12600,2949.4,JazzCash
+ORD-00232,2025-01-29,Customer_0002,Lahore,Travel Mug,Accessories,1,3200,3200,844.32,Cash on Delivery
+ORD-00537,2025-01-29,Customer_0398,Karachi,Face Wash,Beauty,3,5600,16800,2404.74,JazzCash
+ORD-00938,2025-01-31,Customer_0072,Faisalabad,Travel Mug,Accessories,2,2300,4600,526.3,JazzCash
+ORD-00827,2025-01-31,Customer_0210,Multan,Air Fryer,Home,2,16900,33800,5065.3,JazzCash
+ORD-00754,2025-02-01,Customer_0348,Lahore,Power Bank,Electronics,1,27000,27000,3607.63,Cash on Delivery
+ORD-00729,2025-02-01,Customer_0386,Karachi,Face Wash,Beauty,4,1400,5600,657.7,Cash on Delivery
+ORD-00516,2025-02-02,Customer_0326,Islamabad,Face Wash,Beauty,1,4400,4400,617.56,Bank Transfer
+ORD-00778,2025-02-03,Customer_0339,Karachi,Smart Watch,Electronics,2,13000,26000,5754.73,JazzCash
+ORD-00846,2025-02-03,Customer_0135,Karachi,Sunglasses,Accessories,1,4100,4100,780.17,JazzCash
+ORD-00289,2025-02-04,Customer_0155,Islamabad,Wireless Earbuds,Electronics,2,7600,15200,1601.65,Bank Transfer
+ORD-00998,2025-02-04,Customer_0292,Hyderabad,Skin Serum,Beauty,2,6000,12000,1262.07,Bank Transfer
+ORD-00165,2025-02-05,Customer_0066,Islamabad,Makeup Kit,Beauty,1,5700,5700,1371.1,Bank Transfer
+ORD-00571,2025-02-05,Customer_0480,Karachi,Backpack,Accessories,2,800,1600,325.15,EasyPaisa
+ORD-00960,2025-02-05,Customer_0148,Peshawar,Perfume,Beauty,2,2900,5800,1091.49,EasyPaisa
+ORD-00306,2025-02-05,Customer_0013,Rawalpindi,Sunglasses,Accessories,2,1700,3400,455.53,EasyPaisa
+ORD-00948,2025-02-05,Customer_0396,Karachi,Makeup Kit,Beauty,1,5500,5500,1231.27,Cash on Delivery
+ORD-00919,2025-02-06,Customer_0370,Lahore,Coffee Maker,Home,3,13800,41400,8769.28,JazzCash
+ORD-00877,2025-02-07,Customer_0077,Karachi,Air Fryer,Home,1,14700,14700,1408.46,EasyPaisa
+ORD-00279,2025-02-07,Customer_0111,Rawalpindi,Power Bank,Electronics,1,19900,19900,3125.95,Bank Transfer
+ORD-00570,2025-02-08,Customer_0272,Islamabad,Air Fryer,Home,2,3500,7000,635.2,JazzCash
+ORD-00592,2025-02-08,Customer_0277,Islamabad,Sunglasses,Accessories,1,5300,5300,734.48,Bank Transfer
+ORD-00203,2025-02-09,Customer_0227,Karachi,Skin Serum,Beauty,2,3100,6200,1231.96,Bank Transfer
+ORD-00126,2025-02-09,Customer_0230,Karachi,Power Bank,Electronics,1,24100,24100,6731.98,EasyPaisa
+ORD-00113,2025-02-10,Customer_0288,Multan,Perfume,Beauty,1,5000,5000,1392.04,Cash on Delivery
+ORD-00547,2025-02-10,Customer_0376,Karachi,Skin Serum,Beauty,1,1600,1600,158.92,EasyPaisa
+ORD-00075,2025-02-10,Customer_0082,Peshawar,Smart Watch,Electronics,2,14600,29200,7248.63,Cash on Delivery
+ORD-00324,2025-02-10,Customer_0184,Islamabad,Table Lamp,Home,1,17200,17200,2483.96,Cash on Delivery
+ORD-00956,2025-02-11,Customer_0015,Rawalpindi,Wallet,Accessories,1,3400,3400,730.69,Cash on Delivery
+ORD-00661,2025-02-11,Customer_0190,Karachi,Keyboard,Electronics,2,4600,9200,754.6,Cash on Delivery
+ORD-00309,2025-02-11,Customer_0152,Rawalpindi,Smart Watch,Electronics,3,10100,30300,7993.67,EasyPaisa
+ORD-00927,2025-02-11,Customer_0110,Faisalabad,Sunglasses,Accessories,1,5500,5500,1399.73,JazzCash
+ORD-00971,2025-02-12,Customer_0003,Hyderabad,Power Bank,Electronics,1,5100,5100,1032.87,Bank Transfer
+ORD-00895,2025-02-12,Customer_0133,Karachi,Wireless Earbuds,Electronics,3,20000,60000,6694.73,EasyPaisa
+ORD-00336,2025-02-12,Customer_0012,Karachi,Bluetooth Speaker,Electronics,2,11100,22200,4737.31,Bank Transfer
+ORD-00610,2025-02-12,Customer_0067,Rawalpindi,Wireless Earbuds,Electronics,5,11600,58000,6259.39,EasyPaisa
+ORD-00119,2025-02-13,Customer_0169,Karachi,Makeup Kit,Beauty,1,6900,6900,1453.88,Cash on Delivery
+ORD-00438,2025-02-13,Customer_0042,Islamabad,Keyboard,Electronics,2,6200,12400,1057.0,Cash on Delivery
+ORD-00037,2025-02-13,Customer_0361,Karachi,Travel Mug,Accessories,2,2300,4600,1194.5,Cash on Delivery
+ORD-00601,2025-02-13,Customer_0278,Islamabad,Air Fryer,Home,1,12300,12300,3092.81,Cash on Delivery
+ORD-00980,2025-02-14,Customer_0425,Karachi,Keyboard,Electronics,1,17700,17700,2844.95,Cash on Delivery
+ORD-00989,2025-02-14,Customer_0216,Rawalpindi,Power Bank,Electronics,1,24500,24500,6444.14,Bank Transfer
+ORD-00040,2025-02-14,Customer_0017,Rawalpindi,Face Wash,Beauty,1,2600,2600,438.0,EasyPaisa
+ORD-00435,2025-02-15,Customer_0042,Islamabad,Wireless Earbuds,Electronics,2,26700,53400,13161.17,Bank Transfer
+ORD-00154,2025-02-16,Customer_0415,Islamabad,Smart Watch,Electronics,1,14400,14400,2442.93,EasyPaisa
+ORD-00419,2025-02-16,Customer_0174,Faisalabad,Skin Serum,Beauty,4,1500,6000,1071.89,Card
+ORD-00106,2025-02-17,Customer_0383,Karachi,Face Wash,Beauty,1,2000,2000,440.56,Cash on Delivery
+ORD-00361,2025-02-17,Customer_0494,Islamabad,Smart Watch,Electronics,4,1900,7600,951.18,Bank Transfer
+ORD-00872,2025-02-17,Customer_0046,Multan,Perfume,Beauty,1,1100,1100,96.72,EasyPaisa
+ORD-00211,2025-02-17,Customer_0454,Multan,Hair Dryer,Beauty,2,7000,14000,1576.0,JazzCash
+ORD-00397,2025-02-17,Customer_0496,Faisalabad,Bluetooth Speaker,Electronics,1,4200,4200,456.41,Bank Transfer
+ORD-00342,2025-02-18,Customer_0270,Islamabad,Makeup Kit,Beauty,1,5700,5700,1425.32,Cash on Delivery
+ORD-00031,2025-02-19,Customer_0162,Islamabad,Skin Serum,Beauty,3,4700,14100,1522.15,Card
+ORD-00620,2025-02-19,Customer_0269,Karachi,Wallet,Accessories,1,3000,3000,833.86,Card
+ORD-00382,2025-02-20,Customer_0111,Islamabad,Vacuum Cleaner,Home,1,8600,8600,2134.42,Cash on Delivery
+ORD-00905,2025-02-20,Customer_0353,Lahore,Smart Watch,Electronics,1,3500,3500,555.09,EasyPaisa
+ORD-00826,2025-02-20,Customer_0304,Faisalabad,Air Fryer,Home,2,14200,28400,5494.82,JazzCash
+ORD-00627,2025-02-20,Customer_0226,Karachi,Sunglasses,Accessories,2,700,1400,119.86,EasyPaisa
+ORD-00885,2025-02-20,Customer_0449,Karachi,Smart Watch,Electronics,3,17400,52200,14370.89,Card
+ORD-00161,2025-02-21,Customer_0500,Rawalpindi,Phone Case,Accessories,1,2900,2900,482.86,JazzCash
+ORD-00358,2025-02-21,Customer_0445,Lahore,Makeup Kit,Beauty,1,2300,2300,217.91,Card
+ORD-00957,2025-02-21,Customer_0228,Karachi,Hair Dryer,Beauty,2,5800,11600,2394.96,EasyPaisa
+ORD-00792,2025-02-21,Customer_0217,Lahore,Backpack,Accessories,4,5600,22400,3710.19,JazzCash
+ORD-00047,2025-02-22,Customer_0271,Hyderabad,Storage Box,Home,2,12200,24400,4432.76,Bank Transfer
+ORD-00398,2025-02-22,Customer_0359,Islamabad,Sunglasses,Accessories,1,3200,3200,673.16,Cash on Delivery
+ORD-00965,2025-02-23,Customer_0497,Peshawar,Face Wash,Beauty,3,3900,11700,2006.98,Cash on Delivery
+ORD-00056,2025-02-24,Customer_0123,Karachi,Vacuum Cleaner,Home,1,6300,6300,1125.55,JazzCash
+ORD-00798,2025-02-24,Customer_0358,Islamabad,Hair Dryer,Beauty,3,6700,20100,3392.95,Cash on Delivery
+ORD-00886,2025-02-24,Customer_0367,Karachi,Air Fryer,Home,2,16100,32200,3908.33,Card
+ORD-00426,2025-02-24,Customer_0230,Karachi,Smart Watch,Electronics,3,3700,11100,1507.4,Card
+ORD-00292,2025-02-24,Customer_0077,Islamabad,Makeup Kit,Beauty,2,6100,12200,2705.62,EasyPaisa
+ORD-00077,2025-02-24,Customer_0160,Karachi,Face Wash,Beauty,4,900,3600,734.51,Cash on Delivery
+ORD-00652,2025-02-24,Customer_0104,Karachi,Face Wash,Beauty,1,4800,4800,675.8,EasyPaisa
+ORD-00505,2025-02-25,Customer_0278,Lahore,Smart Watch,Electronics,1,28000,28000,7729.37,Bank Transfer
+ORD-00597,2025-02-26,Customer_0080,Islamabad,Wireless Earbuds,Electronics,2,8100,16200,3885.46,Bank Transfer
+ORD-00045,2025-02-26,Customer_0027,Faisalabad,Sunglasses,Accessories,1,800,800,162.61,Cash on Delivery
+ORD-00828,2025-02-27,Customer_0359,Hyderabad,Table Lamp,Home,1,8500,8500,1226.45,EasyPaisa
+ORD-00615,2025-02-27,Customer_0233,Karachi,Power Bank,Electronics,2,18800,37600,8521.7,EasyPaisa
+ORD-00879,2025-02-27,Customer_0067,Hyderabad,Storage Box,Home,2,11700,23400,5704.14,Bank Transfer
+ORD-00736,2025-02-27,Customer_0349,Hyderabad,Power Bank,Electronics,2,11900,23800,5026.09,Card
+ORD-00245,2025-02-28,Customer_0346,Karachi,Sunglasses,Accessories,2,3700,7400,1458.08,Card
+ORD-00507,2025-02-28,Customer_0217,Lahore,Power Bank,Electronics,4,15200,60800,10982.63,Cash on Delivery
+ORD-00493,2025-02-28,Customer_0287,Karachi,Coffee Maker,Home,2,5100,10200,1400.85,JazzCash
+ORD-00497,2025-02-28,Customer_0286,Islamabad,Power Bank,Electronics,1,2000,2000,408.49,Bank Transfer
+ORD-00841,2025-03-03,Customer_0261,Rawalpindi,Coffee Maker,Home,4,4600,18400,3978.14,JazzCash
+ORD-00177,2025-03-03,Customer_0067,Karachi,Keyboard,Electronics,1,3700,3700,908.17,Cash on Delivery
+ORD-00521,2025-03-04,Customer_0149,Karachi,Power Bank,Electronics,1,2300,2300,217.66,Card
+ORD-00036,2025-03-04,Customer_0004,Islamabad,Face Wash,Beauty,2,5700,11400,2279.07,Card
+ORD-00369,2025-03-04,Customer_0364,Lahore,Face Wash,Beauty,1,6700,6700,1047.09,Card
+ORD-00402,2025-03-04,Customer_0276,Peshawar,Keyboard,Electronics,2,16200,32400,7265.83,Cash on Delivery
+ORD-00514,2025-03-05,Customer_0166,Karachi,Keyboard,Electronics,3,14900,44700,11110.38,Card
+ORD-00315,2025-03-05,Customer_0036,Hyderabad,Bluetooth Speaker,Electronics,3,18600,55800,6515.12,Cash on Delivery
+ORD-00849,2025-03-05,Customer_0394,Multan,Keyboard,Electronics,3,23800,71400,15833.18,Card
+ORD-00028,2025-03-05,Customer_0215,Karachi,Wireless Earbuds,Electronics,2,12100,24200,6055.48,Card
+ORD-00768,2025-03-05,Customer_0305,Peshawar,Wallet,Accessories,2,5500,11000,3020.39,Card
+ORD-00697,2025-03-06,Customer_0219,Islamabad,Table Lamp,Home,1,10400,10400,2012.11,Bank Transfer
+ORD-00625,2025-03-06,Customer_0084,Karachi,Face Wash,Beauty,1,6800,6800,1058.95,EasyPaisa
+ORD-00564,2025-03-07,Customer_0076,Lahore,Coffee Maker,Home,1,5800,5800,1116.74,Cash on Delivery
+ORD-00192,2025-03-07,Customer_0169,Peshawar,Bluetooth Speaker,Electronics,1,7100,7100,1921.47,Card
+ORD-00811,2025-03-07,Customer_0019,Faisalabad,Power Bank,Electronics,2,2500,5000,1002.19,EasyPaisa
+ORD-00900,2025-03-07,Customer_0394,Karachi,Travel Mug,Accessories,1,5900,5900,1229.89,Bank Transfer
+ORD-00443,2025-03-07,Customer_0120,Rawalpindi,Power Bank,Electronics,2,11700,23400,2011.61,Bank Transfer
+ORD-00029,2025-03-08,Customer_0115,Karachi,Bluetooth Speaker,Electronics,2,12700,25400,2548.49,Bank Transfer
+ORD-00395,2025-03-09,Customer_0163,Karachi,Keyboard,Electronics,1,24900,24900,3462.73,EasyPaisa
+ORD-00970,2025-03-09,Customer_0338,Faisalabad,Air Fryer,Home,2,9200,18400,2282.64,Cash on Delivery
+ORD-00148,2025-03-10,Customer_0295,Karachi,Phone Case,Accessories,2,3200,6400,1123.77,Card
+ORD-00229,2025-03-10,Customer_0353,Lahore,Air Fryer,Home,1,16200,16200,2243.09,EasyPaisa
+ORD-00345,2025-03-10,Customer_0441,Karachi,Power Bank,Electronics,3,10600,31800,7769.64,Bank Transfer
+ORD-00375,2025-03-10,Customer_0403,Multan,Bluetooth Speaker,Electronics,1,20600,20600,2473.12,Card
+ORD-00403,2025-03-12,Customer_0213,Lahore,Keyboard,Electronics,3,26600,79800,20830.77,JazzCash
+ORD-00961,2025-03-13,Customer_0491,Faisalabad,Coffee Maker,Home,1,9900,9900,1517.48,Bank Transfer
+ORD-00311,2025-03-13,Customer_0354,Hyderabad,Wallet,Accessories,2,1500,3000,802.62,EasyPaisa
+ORD-00086,2025-03-14,Customer_0492,Multan,Power Bank,Electronics,1,14100,14100,2585.99,JazzCash
+ORD-00705,2025-03-14,Customer_0229,Karachi,Face Wash,Beauty,4,2800,11200,1549.38,Bank Transfer
+ORD-00723,2025-03-14,Customer_0397,Islamabad,Bluetooth Speaker,Electronics,2,4600,9200,2555.14,Cash on Delivery
+ORD-00243,2025-03-14,Customer_0419,Faisalabad,Wireless Earbuds,Electronics,4,20800,83200,19258.29,Cash on Delivery
+ORD-00611,2025-03-14,Customer_0135,Multan,Coffee Maker,Home,1,17700,17700,3541.14,JazzCash
+ORD-00152,2025-03-14,Customer_0057,Rawalpindi,Smart Watch,Electronics,3,8900,26700,3191.54,EasyPaisa
+ORD-00743,2025-03-14,Customer_0350,Karachi,Bluetooth Speaker,Electronics,2,6700,13400,3561.56,Card
+ORD-00069,2025-03-15,Customer_0151,Karachi,Smart Watch,Electronics,2,10800,21600,4064.5,Card
+ORD-00541,2025-03-15,Customer_0369,Lahore,Hair Dryer,Beauty,2,1700,3400,828.32,Cash on Delivery
+ORD-00991,2025-03-15,Customer_0446,Faisalabad,Smart Watch,Electronics,2,20400,40800,10273.36,Card
+ORD-00034,2025-03-15,Customer_0252,Faisalabad,Face Wash,Beauty,1,5300,5300,1416.1,JazzCash
+ORD-00012,2025-03-15,Customer_0405,Lahore,Coffee Maker,Home,1,14000,14000,2876.46,Card
+ORD-00176,2025-03-15,Customer_0419,Peshawar,Hair Dryer,Beauty,1,6800,6800,1797.78,JazzCash
+ORD-00209,2025-03-15,Customer_0232,Faisalabad,Storage Box,Home,2,7400,14800,2564.87,Cash on Delivery
+ORD-00626,2025-03-16,Customer_0157,Lahore,Backpack,Accessories,4,3200,12800,1652.04,Bank Transfer
+ORD-00388,2025-03-16,Customer_0409,Karachi,Vacuum Cleaner,Home,5,1500,7500,1227.88,Cash on Delivery
+ORD-00294,2025-03-17,Customer_0360,Islamabad,Storage Box,Home,2,6800,13600,1118.43,JazzCash
+ORD-00381,2025-03-17,Customer_0254,Lahore,Smart Watch,Electronics,1,5900,5900,1413.84,Cash on Delivery
+ORD-00641,2025-03-17,Customer_0042,Karachi,Smart Watch,Electronics,1,20800,20800,2545.23,Card
+ORD-00944,2025-03-17,Customer_0324,Rawalpindi,Coffee Maker,Home,3,6100,18300,2113.82,Card
+ORD-00481,2025-03-18,Customer_0159,Karachi,Air Fryer,Home,3,8200,24600,4816.76,Card
+ORD-00366,2025-03-18,Customer_0271,Lahore,Keyboard,Electronics,1,4000,4000,365.83,Bank Transfer
+ORD-00824,2025-03-18,Customer_0153,Peshawar,Bluetooth Speaker,Electronics,3,4700,14100,2179.51,EasyPaisa
+ORD-00123,2025-03-19,Customer_0387,Peshawar,Wireless Earbuds,Electronics,1,25100,25100,2306.62,EasyPaisa
+ORD-00985,2025-03-19,Customer_0498,Karachi,Vacuum Cleaner,Home,1,15300,15300,1334.59,EasyPaisa
+ORD-00623,2025-03-20,Customer_0024,Islamabad,Vacuum Cleaner,Home,2,9500,19000,3168.25,Cash on Delivery
+ORD-00708,2025-03-21,Customer_0200,Lahore,Skin Serum,Beauty,3,7000,21000,5694.73,Card
+ORD-00049,2025-03-21,Customer_0301,Rawalpindi,Vacuum Cleaner,Home,1,9300,9300,1796.34,Bank Transfer
+ORD-00706,2025-03-22,Customer_0494,Lahore,Wallet,Accessories,1,3700,3700,596.91,Card
+ORD-00628,2025-03-22,Customer_0410,Rawalpindi,Air Fryer,Home,1,5000,5000,459.33,Cash on Delivery
+ORD-00173,2025-03-22,Customer_0161,Faisalabad,Bluetooth Speaker,Electronics,2,3200,6400,1019.44,Card
+ORD-00766,2025-03-23,Customer_0489,Islamabad,Travel Mug,Accessories,1,1300,1300,247.27,Cash on Delivery
+ORD-00589,2025-03-23,Customer_0357,Multan,Smart Watch,Electronics,2,2900,5800,562.43,JazzCash
+ORD-00984,2025-03-23,Customer_0478,Faisalabad,Face Wash,Beauty,3,3700,11100,3030.56,EasyPaisa
+ORD-00295,2025-03-23,Customer_0496,Multan,Travel Mug,Accessories,1,5800,5800,1479.34,Cash on Delivery
+ORD-00499,2025-03-23,Customer_0400,Lahore,Phone Case,Accessories,1,5600,5600,563.47,Cash on Delivery
+ORD-00724,2025-03-23,Customer_0323,Karachi,Wireless Earbuds,Electronics,2,22300,44600,11118.74,Bank Transfer
+ORD-00475,2025-03-24,Customer_0183,Faisalabad,Wireless Earbuds,Electronics,1,2800,2800,286.05,Bank Transfer
+ORD-00995,2025-03-25,Customer_0153,Multan,Travel Mug,Accessories,1,4000,4000,759.09,Card
+ORD-00704,2025-03-25,Customer_0228,Karachi,Power Bank,Electronics,1,18200,18200,4828.78,Cash on Delivery
+ORD-00175,2025-03-26,Customer_0171,Karachi,Power Bank,Electronics,2,18500,37000,6286.54,JazzCash
+ORD-00807,2025-03-27,Customer_0315,Islamabad,Face Wash,Beauty,4,3300,13200,3644.33,EasyPaisa
+ORD-00249,2025-03-27,Customer_0113,Karachi,Vacuum Cleaner,Home,3,14200,42600,8593.78,Bank Transfer
+ORD-00239,2025-03-28,Customer_0286,Karachi,Backpack,Accessories,1,4600,4600,434.11,Cash on Delivery
+ORD-00155,2025-03-29,Customer_0091,Lahore,Wallet,Accessories,2,2200,4400,592.07,Cash on Delivery
+ORD-00020,2025-03-29,Customer_0034,Karachi,Travel Mug,Accessories,1,1600,1600,227.3,JazzCash
+ORD-00656,2025-03-29,Customer_0463,Multan,Wallet,Accessories,1,5300,5300,667.52,Cash on Delivery
+ORD-00057,2025-03-30,Customer_0428,Multan,Smart Watch,Electronics,2,19400,38800,7290.73,EasyPaisa
+ORD-00857,2025-03-30,Customer_0087,Peshawar,Bluetooth Speaker,Electronics,1,11400,11400,2722.41,Bank Transfer
+ORD-00457,2025-03-30,Customer_0439,Karachi,Travel Mug,Accessories,1,3500,3500,683.11,JazzCash
+ORD-00472,2025-03-31,Customer_0218,Rawalpindi,Perfume,Beauty,2,4400,8800,965.57,JazzCash
+ORD-00901,2025-03-31,Customer_0248,Islamabad,Backpack,Accessories,1,4300,4300,371.72,Cash on Delivery
+ORD-00470,2025-03-31,Customer_0398,Faisalabad,Coffee Maker,Home,1,8100,8100,1904.68,JazzCash
+ORD-00522,2025-03-31,Customer_0382,Hyderabad,Vacuum Cleaner,Home,1,7700,7700,804.92,JazzCash
+ORD-00488,2025-03-31,Customer_0122,Faisalabad,Storage Box,Home,2,5200,10400,1588.01,Card
+ORD-00371,2025-03-31,Customer_0494,Islamabad,Backpack,Accessories,1,2900,2900,657.83,EasyPaisa
+ORD-00655,2025-04-01,Customer_0359,Peshawar,Backpack,Accessories,1,4500,4500,611.98,Card
+ORD-00096,2025-04-01,Customer_0149,Karachi,Coffee Maker,Home,4,14300,57200,10636.29,Cash on Delivery
+ORD-00272,2025-04-01,Customer_0414,Karachi,Backpack,Accessories,3,600,1800,344.33,Cash on Delivery
+ORD-00594,2025-04-01,Customer_0299,Lahore,Phone Case,Accessories,1,4100,4100,1013.54,Bank Transfer
+ORD-00532,2025-04-02,Customer_0143,Lahore,Vacuum Cleaner,Home,1,2200,2200,320.38,EasyPaisa
+ORD-00553,2025-04-02,Customer_0226,Lahore,Table Lamp,Home,1,6600,6600,1597.94,EasyPaisa
+ORD-00946,2025-04-02,Customer_0233,Multan,Wallet,Accessories,2,3700,7400,2032.61,EasyPaisa
+ORD-00741,2025-04-03,Customer_0374,Lahore,Table Lamp,Home,2,17300,34600,4231.38,Card
+ORD-00319,2025-04-04,Customer_0414,Islamabad,Phone Case,Accessories,1,1300,1300,178.96,Cash on Delivery
+ORD-00662,2025-04-04,Customer_0083,Islamabad,Perfume,Beauty,5,6100,30500,4068.53,Cash on Delivery
+ORD-00711,2025-04-04,Customer_0426,Islamabad,Keyboard,Electronics,1,3000,3000,328.4,Cash on Delivery
+ORD-00312,2025-04-04,Customer_0298,Faisalabad,Power Bank,Electronics,2,18400,36800,4952.07,EasyPaisa
+ORD-00218,2025-04-04,Customer_0025,Islamabad,Storage Box,Home,1,8300,8300,2273.82,Cash on Delivery
+ORD-00091,2025-04-05,Customer_0005,Karachi,Storage Box,Home,4,9700,38800,5391.45,Card
+ORD-00812,2025-04-05,Customer_0083,Hyderabad,Power Bank,Electronics,1,26400,26400,5942.14,EasyPaisa
+ORD-00700,2025-04-05,Customer_0126,Peshawar,Wireless Earbuds,Electronics,3,23800,71400,16308.47,Card
+ORD-00797,2025-04-05,Customer_0448,Faisalabad,Smart Watch,Electronics,1,23100,23100,2045.87,EasyPaisa
+ORD-00815,2025-04-05,Customer_0341,Karachi,Smart Watch,Electronics,2,17100,34200,3370.23,Bank Transfer
+ORD-00217,2025-04-07,Customer_0426,Lahore,Storage Box,Home,3,16200,48600,8772.42,Card
+ORD-00803,2025-04-07,Customer_0051,Hyderabad,Bluetooth Speaker,Electronics,1,14600,14600,2895.87,Card
+ORD-00776,2025-04-08,Customer_0295,Peshawar,Phone Case,Accessories,1,2400,2400,463.41,JazzCash
+ORD-00207,2025-04-08,Customer_0023,Islamabad,Travel Mug,Accessories,1,1900,1900,343.73,Cash on Delivery
+ORD-00730,2025-04-08,Customer_0399,Multan,Table Lamp,Home,2,12800,25600,5340.57,Cash on Delivery
+ORD-00629,2025-04-08,Customer_0231,Lahore,Skin Serum,Beauty,3,6800,20400,5266.38,Cash on Delivery
+ORD-00720,2025-04-09,Customer_0033,Islamabad,Storage Box,Home,3,3700,11100,2425.47,Card
+ORD-00676,2025-04-09,Customer_0300,Faisalabad,Bluetooth Speaker,Electronics,1,3900,3900,501.82,JazzCash
+ORD-00785,2025-04-09,Customer_0229,Karachi,Sunglasses,Accessories,1,1700,1700,375.08,Card
+ORD-00038,2025-04-09,Customer_0267,Lahore,Skin Serum,Beauty,1,3500,3500,790.78,Bank Transfer
+ORD-00663,2025-04-10,Customer_0008,Karachi,Wallet,Accessories,1,1600,1600,351.98,Card
+ORD-00166,2025-04-11,Customer_0138,Karachi,Power Bank,Electronics,4,12300,49200,4281.55,Cash on Delivery
+ORD-00409,2025-04-11,Customer_0054,Faisalabad,Table Lamp,Home,2,10400,20800,2405.04,Bank Transfer
+ORD-00483,2025-04-11,Customer_0188,Rawalpindi,Perfume,Beauty,1,3300,3300,863.92,EasyPaisa
+ORD-00334,2025-04-11,Customer_0040,Karachi,Sunglasses,Accessories,1,2100,2100,386.72,Bank Transfer
+ORD-00386,2025-04-12,Customer_0424,Lahore,Storage Box,Home,2,14800,29600,2850.14,Bank Transfer
+ORD-00363,2025-04-12,Customer_0074,Lahore,Hair Dryer,Beauty,2,4900,9800,1155.95,JazzCash
+ORD-00448,2025-04-12,Customer_0039,Rawalpindi,Travel Mug,Accessories,2,5100,10200,2795.08,Cash on Delivery
+ORD-00867,2025-04-12,Customer_0172,Hyderabad,Smart Watch,Electronics,1,19000,19000,4899.16,JazzCash
+ORD-00299,2025-04-12,Customer_0360,Karachi,Makeup Kit,Beauty,1,4200,4200,848.74,EasyPaisa
+ORD-00732,2025-04-13,Customer_0362,Lahore,Storage Box,Home,1,15800,15800,2297.38,EasyPaisa
+ORD-00894,2025-04-13,Customer_0266,Karachi,Makeup Kit,Beauty,3,800,2400,640.13,JazzCash
+ORD-00881,2025-04-13,Customer_0487,Karachi,Keyboard,Electronics,3,16200,48600,12445.77,Bank Transfer
+ORD-00490,2025-04-13,Customer_0262,Lahore,Keyboard,Electronics,2,14400,28800,6868.2,Bank Transfer
+ORD-00417,2025-04-13,Customer_0159,Peshawar,Coffee Maker,Home,2,1800,3600,618.87,Bank Transfer
+ORD-00933,2025-04-14,Customer_0166,Karachi,Face Wash,Beauty,2,1100,2200,440.51,EasyPaisa
+ORD-00646,2025-04-14,Customer_0220,Islamabad,Wireless Earbuds,Electronics,2,21400,42800,9526.18,Bank Transfer
+ORD-00682,2025-04-15,Customer_0053,Lahore,Power Bank,Electronics,2,6800,13600,3723.92,Cash on Delivery
+ORD-00202,2025-04-15,Customer_0105,Karachi,Bluetooth Speaker,Electronics,1,15500,15500,2398.53,Card
+ORD-00735,2025-04-15,Customer_0120,Peshawar,Storage Box,Home,1,7100,7100,752.72,Cash on Delivery
+ORD-00588,2025-04-16,Customer_0237,Karachi,Perfume,Beauty,1,1800,1800,245.16,Cash on Delivery
+ORD-00725,2025-04-16,Customer_0335,Faisalabad,Air Fryer,Home,2,16000,32000,6406.09,JazzCash
+ORD-00491,2025-04-16,Customer_0443,Karachi,Coffee Maker,Home,2,16000,32000,3946.96,JazzCash
+ORD-00920,2025-04-17,Customer_0319,Islamabad,Air Fryer,Home,2,10800,21600,3883.8,Bank Transfer
+ORD-00757,2025-04-18,Customer_0027,Karachi,Backpack,Accessories,1,5500,5500,1514.34,Card
+ORD-00779,2025-04-18,Customer_0459,Islamabad,Hair Dryer,Beauty,1,6000,6000,766.85,Bank Transfer
+ORD-00525,2025-04-18,Customer_0452,Lahore,Keyboard,Electronics,2,18900,37800,9237.34,Bank Transfer
+ORD-00511,2025-04-18,Customer_0439,Karachi,Vacuum Cleaner,Home,3,4200,12600,3116.44,EasyPaisa
+ORD-00584,2025-04-19,Customer_0168,Lahore,Makeup Kit,Beauty,2,3900,7800,933.57,EasyPaisa
+ORD-00484,2025-04-20,Customer_0304,Faisalabad,Air Fryer,Home,1,2700,2700,300.24,EasyPaisa
+ORD-00193,2025-04-20,Customer_0386,Islamabad,Storage Box,Home,1,7300,7300,1225.2,Bank Transfer
+ORD-00274,2025-04-20,Customer_0017,Islamabad,Power Bank,Electronics,1,13900,13900,2711.32,Bank Transfer
+ORD-00462,2025-04-21,Customer_0361,Rawalpindi,Sunglasses,Accessories,1,3000,3000,547.31,Card
+ORD-00529,2025-04-21,Customer_0090,Hyderabad,Wallet,Accessories,1,2200,2200,443.72,Bank Transfer
+ORD-00513,2025-04-22,Customer_0130,Lahore,Perfume,Beauty,2,2000,4000,1101.26,Card
+ORD-00468,2025-04-22,Customer_0429,Karachi,Bluetooth Speaker,Electronics,2,5500,11000,2804.2,Bank Transfer
+ORD-00845,2025-04-23,Customer_0234,Lahore,Skin Serum,Beauty,3,5000,15000,3576.76,Card
+ORD-00180,2025-04-23,Customer_0227,Karachi,Hair Dryer,Beauty,4,2500,10000,2043.72,EasyPaisa
+ORD-00563,2025-04-24,Customer_0083,Rawalpindi,Table Lamp,Home,1,13600,13600,1913.95,EasyPaisa
+ORD-00159,2025-04-25,Customer_0375,Lahore,Backpack,Accessories,2,2100,4200,478.63,Bank Transfer
+ORD-00746,2025-04-25,Customer_0052,Lahore,Power Bank,Electronics,4,15900,63600,13395.75,EasyPaisa
+ORD-00445,2025-04-25,Customer_0338,Peshawar,Smart Watch,Electronics,1,13800,13800,1159.91,JazzCash
+ORD-00081,2025-04-26,Customer_0074,Peshawar,Makeup Kit,Beauty,1,1800,1800,501.04,Card
+ORD-00832,2025-04-26,Customer_0085,Karachi,Wallet,Accessories,1,2200,2200,364.58,Bank Transfer
+ORD-00454,2025-04-26,Customer_0429,Rawalpindi,Skin Serum,Beauty,2,6200,12400,1899.94,Card
+ORD-00439,2025-04-27,Customer_0109,Karachi,Coffee Maker,Home,3,6500,19500,3829.8,Card
+ORD-00125,2025-04-27,Customer_0123,Lahore,Backpack,Accessories,1,5400,5400,1436.04,Cash on Delivery
+ORD-00331,2025-04-27,Customer_0436,Karachi,Sunglasses,Accessories,2,3800,7600,716.78,JazzCash
+ORD-00690,2025-04-28,Customer_0379,Karachi,Perfume,Beauty,1,800,800,215.6,Bank Transfer
+ORD-00908,2025-04-28,Customer_0065,Rawalpindi,Wireless Earbuds,Electronics,2,5100,10200,1500.62,EasyPaisa
+ORD-00076,2025-04-28,Customer_0458,Karachi,Smart Watch,Electronics,2,7800,15600,2685.6,Card
+ORD-00071,2025-04-28,Customer_0174,Karachi,Smart Watch,Electronics,1,16500,16500,2891.65,JazzCash
+ORD-00668,2025-04-28,Customer_0241,Islamabad,Table Lamp,Home,2,8700,17400,2983.54,Card
+ORD-00380,2025-04-29,Customer_0414,Karachi,Power Bank,Electronics,2,18900,37800,5091.59,Cash on Delivery
+ORD-00923,2025-04-30,Customer_0003,Lahore,Travel Mug,Accessories,1,4800,4800,758.7,EasyPaisa
+ORD-00651,2025-04-30,Customer_0267,Islamabad,Backpack,Accessories,3,3700,11100,2165.29,JazzCash
+ORD-00238,2025-04-30,Customer_0383,Lahore,Storage Box,Home,1,15900,15900,3478.47,Bank Transfer
+ORD-00360,2025-04-30,Customer_0235,Multan,Backpack,Accessories,1,5700,5700,955.68,Cash on Delivery
+ORD-00870,2025-04-30,Customer_0336,Karachi,Storage Box,Home,3,4000,12000,1230.92,Cash on Delivery
+ORD-00362,2025-04-30,Customer_0008,Rawalpindi,Hair Dryer,Beauty,2,1700,3400,927.71,JazzCash
+ORD-00680,2025-04-30,Customer_0332,Faisalabad,Coffee Maker,Home,2,14200,28400,3170.02,Card
+ORD-00377,2025-04-30,Customer_0157,Karachi,Sunglasses,Accessories,1,4100,4100,845.13,Bank Transfer
+ORD-00585,2025-05-02,Customer_0322,Karachi,Vacuum Cleaner,Home,2,17000,34000,8060.3,Card
+ORD-00313,2025-05-02,Customer_0396,Lahore,Keyboard,Electronics,1,6900,6900,1854.65,Card
+ORD-00111,2025-05-03,Customer_0068,Multan,Wireless Earbuds,Electronics,1,22100,22100,2619.25,JazzCash
+ORD-00343,2025-05-05,Customer_0055,Rawalpindi,Sunglasses,Accessories,1,5600,5600,1368.21,Card
+ORD-00508,2025-05-06,Customer_0472,Lahore,Bluetooth Speaker,Electronics,5,7700,38500,8603.29,Card
+ORD-00721,2025-05-06,Customer_0270,Karachi,Table Lamp,Home,2,10500,21000,4298.11,JazzCash
+ORD-00926,2025-05-06,Customer_0450,Faisalabad,Wireless Earbuds,Electronics,3,7300,21900,3634.89,EasyPaisa
+ORD-01000,2025-05-07,Customer_0246,Lahore,Bluetooth Speaker,Electronics,1,13500,13500,2378.45,Cash on Delivery
+ORD-00337,2025-05-07,Customer_0432,Rawalpindi,Wireless Earbuds,Electronics,1,10500,10500,1766.19,Card
+ORD-00916,2025-05-08,Customer_0097,Islamabad,Smart Watch,Electronics,2,25800,51600,8333.58,JazzCash
+ORD-00868,2025-05-08,Customer_0228,Hyderabad,Wireless Earbuds,Electronics,1,20900,20900,4571.76,Cash on Delivery
+ORD-00753,2025-05-09,Customer_0468,Islamabad,Bluetooth Speaker,Electronics,1,7800,7800,892.89,Cash on Delivery
+ORD-00657,2025-05-09,Customer_0265,Karachi,Storage Box,Home,1,11000,11000,2856.35,JazzCash
+ORD-00404,2025-05-10,Customer_0106,Rawalpindi,Air Fryer,Home,1,6700,6700,1636.88,Card
+ORD-00429,2025-05-10,Customer_0391,Rawalpindi,Keyboard,Electronics,3,5900,17700,3556.81,Cash on Delivery
+ORD-00003,2025-05-10,Customer_0223,Hyderabad,Skin Serum,Beauty,3,1000,3000,649.83,JazzCash
+ORD-00401,2025-05-11,Customer_0207,Multan,Hair Dryer,Beauty,2,1700,3400,688.31,Bank Transfer
+ORD-00422,2025-05-11,Customer_0131,Lahore,Hair Dryer,Beauty,2,1100,2200,477.19,Cash on Delivery
+ORD-00949,2025-05-11,Customer_0061,Hyderabad,Sunglasses,Accessories,2,5800,11600,3026.85,EasyPaisa
+ORD-00942,2025-05-11,Customer_0306,Karachi,Power Bank,Electronics,3,16500,49500,13620.93,JazzCash
+ORD-00859,2025-05-12,Customer_0151,Islamabad,Air Fryer,Home,3,3800,11400,2365.28,Cash on Delivery
+ORD-00909,2025-05-12,Customer_0449,Karachi,Storage Box,Home,1,5900,5900,972.91,Bank Transfer
+ORD-00698,2025-05-12,Customer_0423,Karachi,Makeup Kit,Beauty,2,1900,3800,839.92,JazzCash
+ORD-00795,2025-05-13,Customer_0105,Faisalabad,Power Bank,Electronics,2,8400,16800,4382.54,Card
+ORD-00675,2025-05-13,Customer_0382,Karachi,Air Fryer,Home,1,11600,11600,2533.26,Cash on Delivery
+ORD-00557,2025-05-13,Customer_0135,Karachi,Wallet,Accessories,4,1600,6400,1637.42,Cash on Delivery
+ORD-00804,2025-05-14,Customer_0401,Islamabad,Coffee Maker,Home,1,8600,8600,2127.83,Bank Transfer
+ORD-00853,2025-05-14,Customer_0246,Hyderabad,Hair Dryer,Beauty,1,5100,5100,678.01,Card
+ORD-00912,2025-05-14,Customer_0396,Islamabad,Backpack,Accessories,1,3900,3900,975.95,Card
+ORD-00613,2025-05-14,Customer_0089,Faisalabad,Bluetooth Speaker,Electronics,1,10100,10100,1043.62,Bank Transfer
+ORD-00931,2025-05-15,Customer_0422,Karachi,Makeup Kit,Beauty,1,6500,6500,1355.17,Card
+ORD-00686,2025-05-16,Customer_0233,Faisalabad,Travel Mug,Accessories,1,1700,1700,174.2,Card
+ORD-00094,2025-05-16,Customer_0056,Lahore,Keyboard,Electronics,3,7200,21600,2161.71,EasyPaisa
+ORD-00053,2025-05-16,Customer_0120,Karachi,Sunglasses,Accessories,1,4700,4700,668.3,EasyPaisa
+ORD-00569,2025-05-17,Customer_0374,Karachi,Sunglasses,Accessories,1,4700,4700,1214.52,Card
+ORD-00897,2025-05-17,Customer_0241,Faisalabad,Keyboard,Electronics,1,6200,6200,1158.59,Card
+ORD-00137,2025-05-18,Customer_0069,Rawalpindi,Face Wash,Beauty,2,1600,3200,476.25,Cash on Delivery
+ORD-00234,2025-05-18,Customer_0154,Multan,Air Fryer,Home,1,15800,15800,1482.48,Cash on Delivery
+ORD-00974,2025-05-18,Customer_0197,Hyderabad,Wireless Earbuds,Electronics,1,17300,17300,3665.91,Cash on Delivery
+ORD-00739,2025-05-19,Customer_0103,Hyderabad,Coffee Maker,Home,1,10600,10600,1323.38,Cash on Delivery
+ORD-00633,2025-05-19,Customer_0140,Peshawar,Smart Watch,Electronics,2,6600,13200,1715.54,Cash on Delivery
+ORD-00922,2025-05-19,Customer_0216,Karachi,Phone Case,Accessories,1,4800,4800,539.7,Cash on Delivery
+ORD-00673,2025-05-19,Customer_0036,Lahore,Air Fryer,Home,1,2100,2100,410.74,Cash on Delivery
+ORD-00199,2025-05-19,Customer_0393,Multan,Phone Case,Accessories,2,5900,11800,1299.41,Bank Transfer
+ORD-00128,2025-05-19,Customer_0398,Lahore,Travel Mug,Accessories,1,5300,5300,1048.69,Card
+ORD-00755,2025-05-20,Customer_0127,Rawalpindi,Phone Case,Accessories,2,1100,2200,179.16,JazzCash
+ORD-00612,2025-05-20,Customer_0101,Karachi,Bluetooth Speaker,Electronics,1,21800,21800,1745.82,JazzCash
+ORD-00172,2025-05-20,Customer_0241,Hyderabad,Skin Serum,Beauty,1,4500,4500,1106.64,JazzCash
+ORD-00576,2025-05-20,Customer_0167,Faisalabad,Power Bank,Electronics,1,17800,17800,1613.25,EasyPaisa
+ORD-00270,2025-05-20,Customer_0118,Peshawar,Wallet,Accessories,3,2700,8100,2058.59,JazzCash
+ORD-00982,2025-05-20,Customer_0326,Rawalpindi,Bluetooth Speaker,Electronics,4,6400,25600,6575.38,Cash on Delivery
+ORD-00975,2025-05-21,Customer_0496,Islamabad,Storage Box,Home,3,12500,37500,3999.35,EasyPaisa
+ORD-00559,2025-05-21,Customer_0477,Lahore,Perfume,Beauty,2,2600,5200,1054.26,EasyPaisa
+ORD-00679,2025-05-21,Customer_0147,Rawalpindi,Air Fryer,Home,2,9000,18000,4486.54,Cash on Delivery
+ORD-00519,2025-05-21,Customer_0123,Karachi,Perfume,Beauty,1,4000,4000,777.99,EasyPaisa
+ORD-00540,2025-05-22,Customer_0003,Hyderabad,Storage Box,Home,1,6700,6700,590.72,Card
+ORD-00887,2025-05-22,Customer_0201,Multan,Power Bank,Electronics,1,14200,14200,2977.32,Card
+ORD-00898,2025-05-23,Customer_0424,Multan,Travel Mug,Accessories,1,4400,4400,902.1,Cash on Delivery
+ORD-00793,2025-05-24,Customer_0472,Multan,Skin Serum,Beauty,3,3500,10500,2294.99,Card
+ORD-00831,2025-05-24,Customer_0288,Karachi,Face Wash,Beauty,3,4900,14700,4028.79,Card
+ORD-00120,2025-05-24,Customer_0477,Peshawar,Vacuum Cleaner,Home,3,5100,15300,3472.26,JazzCash
+ORD-00267,2025-05-25,Customer_0283,Lahore,Phone Case,Accessories,2,3700,7400,1283.56,Bank Transfer
+ORD-00478,2025-05-26,Customer_0009,Karachi,Hair Dryer,Beauty,1,1200,1200,253.32,Card
+ORD-00250,2025-05-27,Customer_0484,Karachi,Backpack,Accessories,3,5000,15000,2695.8,JazzCash
+ORD-00883,2025-05-27,Customer_0377,Rawalpindi,Air Fryer,Home,3,13400,40200,10856.73,EasyPaisa
+ORD-00127,2025-05-27,Customer_0235,Lahore,Smart Watch,Electronics,2,22900,45800,8186.04,JazzCash
+ORD-00607,2025-05-28,Customer_0463,Karachi,Makeup Kit,Beauty,1,2100,2100,225.32,Card
+ORD-00972,2025-05-28,Customer_0218,Multan,Sunglasses,Accessories,1,5200,5200,424.27,EasyPaisa
+ORD-00009,2025-05-29,Customer_0161,Multan,Perfume,Beauty,1,3600,3600,648.75,Cash on Delivery
+ORD-00805,2025-05-30,Customer_0442,Multan,Wireless Earbuds,Electronics,4,7300,29200,6378.35,Card
+ORD-00008,2025-05-30,Customer_0018,Multan,Smart Watch,Electronics,1,9200,9200,2178.37,Bank Transfer
+ORD-00129,2025-05-30,Customer_0401,Lahore,Coffee Maker,Home,4,8000,32000,6194.78,EasyPaisa
+ORD-00447,2025-06-01,Customer_0106,Lahore,Coffee Maker,Home,1,4200,4200,533.8,JazzCash
+ORD-00453,2025-06-01,Customer_0464,Faisalabad,Bluetooth Speaker,Electronics,2,16400,32800,6236.98,JazzCash
+ORD-00080,2025-06-01,Customer_0412,Lahore,Bluetooth Speaker,Electronics,1,10900,10900,2415.64,Cash on Delivery
+ORD-00876,2025-06-01,Customer_0104,Multan,Perfume,Beauty,1,1700,1700,201.63,JazzCash
+ORD-00197,2025-06-02,Customer_0251,Islamabad,Perfume,Beauty,2,6000,12000,2183.59,Cash on Delivery
+ORD-00939,2025-06-02,Customer_0235,Islamabad,Table Lamp,Home,2,16100,32200,2659.24,JazzCash
+ORD-00032,2025-06-02,Customer_0170,Karachi,Air Fryer,Home,1,7800,7800,2104.22,Bank Transfer
+ORD-00024,2025-06-02,Customer_0083,Hyderabad,Power Bank,Electronics,4,22900,91600,9327.52,Card
+ORD-00252,2025-06-03,Customer_0128,Karachi,Coffee Maker,Home,1,3900,3900,479.8,Cash on Delivery
+ORD-00266,2025-06-03,Customer_0197,Multan,Backpack,Accessories,2,1100,2200,275.34,EasyPaisa
+ORD-00506,2025-06-03,Customer_0386,Islamabad,Keyboard,Electronics,3,9000,27000,2459.62,Cash on Delivery
+ORD-00770,2025-06-04,Customer_0478,Lahore,Wireless Earbuds,Electronics,1,17100,17100,3343.55,Bank Transfer
+ORD-00112,2025-06-04,Customer_0439,Rawalpindi,Wireless Earbuds,Electronics,5,3600,18000,4625.46,JazzCash
+ORD-00400,2025-06-04,Customer_0421,Karachi,Sunglasses,Accessories,1,2400,2400,278.57,Bank Transfer
+ORD-00485,2025-06-05,Customer_0346,Karachi,Sunglasses,Accessories,1,1300,1300,305.61,Card
+ORD-00618,2025-06-05,Customer_0393,Lahore,Wallet,Accessories,1,2500,2500,415.4,Card
+ORD-00286,2025-06-07,Customer_0206,Multan,Table Lamp,Home,3,12400,37200,6382.76,Bank Transfer
+ORD-00333,2025-06-08,Customer_0071,Faisalabad,Keyboard,Electronics,2,24000,48000,5981.15,JazzCash
+ORD-00840,2025-06-08,Customer_0036,Lahore,Face Wash,Beauty,1,5500,5500,1315.33,EasyPaisa
+ORD-00215,2025-06-08,Customer_0358,Faisalabad,Backpack,Accessories,1,4700,4700,463.67,JazzCash
+ORD-00073,2025-06-08,Customer_0470,Karachi,Vacuum Cleaner,Home,1,5600,5600,1026.02,JazzCash
+ORD-00097,2025-06-08,Customer_0180,Karachi,Vacuum Cleaner,Home,4,17200,68800,8362.19,Cash on Delivery
+ORD-00285,2025-06-08,Customer_0380,Lahore,Hair Dryer,Beauty,1,1100,1100,170.82,Bank Transfer
+ORD-00952,2025-06-09,Customer_0009,Karachi,Table Lamp,Home,1,16100,16100,1730.71,JazzCash
+ORD-00255,2025-06-09,Customer_0416,Lahore,Air Fryer,Home,2,17500,35000,4857.72,Bank Transfer
+ORD-00774,2025-06-09,Customer_0311,Lahore,Makeup Kit,Beauty,3,3500,10500,1765.06,Bank Transfer
+ORD-00719,2025-06-09,Customer_0187,Faisalabad,Keyboard,Electronics,1,12400,12400,2625.92,Bank Transfer
+ORD-00001,2025-06-10,Customer_0043,Multan,Skin Serum,Beauty,1,5700,5700,969.44,EasyPaisa
+ORD-00188,2025-06-10,Customer_0225,Hyderabad,Keyboard,Electronics,4,22700,90800,17447.72,JazzCash
+ORD-00182,2025-06-10,Customer_0386,Faisalabad,Smart Watch,Electronics,3,16100,48300,9850.49,Bank Transfer
+ORD-00399,2025-06-10,Customer_0105,Rawalpindi,Bluetooth Speaker,Electronics,1,3700,3700,1033.24,Bank Transfer
+ORD-00156,2025-06-10,Customer_0431,Lahore,Wireless Earbuds,Electronics,1,21800,21800,5524.87,Bank Transfer
+ORD-00307,2025-06-11,Customer_0083,Karachi,Vacuum Cleaner,Home,1,8300,8300,1408.44,JazzCash
+ORD-00644,2025-06-11,Customer_0297,Karachi,Storage Box,Home,2,9900,19800,3861.06,JazzCash
+ORD-00544,2025-06-11,Customer_0159,Rawalpindi,Air Fryer,Home,2,15200,30400,3377.72,Card
+ORD-00471,2025-06-12,Customer_0440,Lahore,Travel Mug,Accessories,1,1400,1400,208.99,Bank Transfer
+ORD-00566,2025-06-12,Customer_0095,Rawalpindi,Backpack,Accessories,1,1200,1200,275.21,Bank Transfer
+ORD-00201,2025-06-12,Customer_0126,Hyderabad,Backpack,Accessories,1,1300,1300,282.76,EasyPaisa
+ORD-00717,2025-06-13,Customer_0213,Islamabad,Table Lamp,Home,4,13300,53200,4488.0,EasyPaisa
+ORD-00208,2025-06-13,Customer_0207,Karachi,Backpack,Accessories,1,2200,2200,189.67,JazzCash
+ORD-00464,2025-06-13,Customer_0267,Lahore,Wireless Earbuds,Electronics,2,3200,6400,794.79,Bank Transfer
+ORD-00348,2025-06-13,Customer_0235,Islamabad,Storage Box,Home,2,15100,30200,5824.35,Card
+ORD-00937,2025-06-13,Customer_0283,Rawalpindi,Wireless Earbuds,Electronics,3,8700,26100,6111.82,Card
+ORD-00530,2025-06-13,Customer_0197,Peshawar,Power Bank,Electronics,3,17100,51300,5053.65,EasyPaisa
+ORD-00653,2025-06-13,Customer_0452,Karachi,Wallet,Accessories,1,3300,3300,319.18,Bank Transfer
+ORD-00060,2025-06-13,Customer_0072,Lahore,Phone Case,Accessories,1,5900,5900,1204.02,Card
+ORD-00268,2025-06-13,Customer_0249,Lahore,Perfume,Beauty,2,5900,11800,1749.65,Card
+ORD-00997,2025-06-14,Customer_0057,Karachi,Coffee Maker,Home,1,7700,7700,1437.12,JazzCash
+ORD-00284,2025-06-14,Customer_0102,Islamabad,Keyboard,Electronics,2,18700,37400,3333.55,JazzCash
+ORD-00223,2025-06-15,Customer_0154,Lahore,Coffee Maker,Home,3,13100,39300,8282.32,Cash on Delivery
+ORD-00604,2025-06-16,Customer_0139,Karachi,Air Fryer,Home,5,16600,83000,13709.38,Cash on Delivery
+ORD-00451,2025-06-16,Customer_0394,Rawalpindi,Power Bank,Electronics,1,12200,12200,1760.22,Card
+ORD-00222,2025-06-16,Customer_0129,Peshawar,Phone Case,Accessories,4,5700,22800,3259.11,Card
+ORD-00596,2025-06-16,Customer_0417,Lahore,Smart Watch,Electronics,1,18600,18600,2636.97,Cash on Delivery
+ORD-00195,2025-06-16,Customer_0042,Lahore,Bluetooth Speaker,Electronics,3,26100,78300,20748.91,Cash on Delivery
+ORD-00288,2025-06-17,Customer_0217,Karachi,Makeup Kit,Beauty,1,3200,3200,256.63,Bank Transfer
+ORD-00101,2025-06-17,Customer_0218,Karachi,Smart Watch,Electronics,2,12100,24200,4167.72,Cash on Delivery
+ORD-00775,2025-06-17,Customer_0329,Multan,Coffee Maker,Home,3,10400,31200,7561.92,JazzCash
+ORD-00492,2025-06-19,Customer_0455,Lahore,Smart Watch,Electronics,1,23200,23200,3748.77,JazzCash
+ORD-00649,2025-06-19,Customer_0397,Peshawar,Face Wash,Beauty,5,4900,24500,6816.42,EasyPaisa
+ORD-00133,2025-06-20,Customer_0284,Karachi,Table Lamp,Home,1,7700,7700,863.31,EasyPaisa
+ORD-00007,2025-06-21,Customer_0040,Islamabad,Skin Serum,Beauty,2,2600,5200,870.19,EasyPaisa
+ORD-00048,2025-06-23,Customer_0487,Karachi,Vacuum Cleaner,Home,1,8600,8600,1396.31,Cash on Delivery
+ORD-00392,2025-06-23,Customer_0142,Peshawar,Air Fryer,Home,1,10100,10100,1677.61,Bank Transfer
+ORD-00428,2025-06-24,Customer_0351,Multan,Sunglasses,Accessories,1,2100,2100,462.0,JazzCash
+ORD-00033,2025-06-25,Customer_0231,Lahore,Travel Mug,Accessories,3,4000,12000,1651.57,Card
+ORD-00143,2025-06-26,Customer_0432,Lahore,Skin Serum,Beauty,1,1200,1200,203.06,Bank Transfer
+ORD-00063,2025-06-28,Customer_0430,Hyderabad,Makeup Kit,Beauty,5,1200,6000,1442.47,Card
+ORD-00543,2025-06-28,Customer_0015,Multan,Vacuum Cleaner,Home,4,17200,68800,13773.77,Cash on Delivery
+ORD-00023,2025-06-28,Customer_0157,Rawalpindi,Wireless Earbuds,Electronics,1,26000,26000,2630.67,JazzCash
+ORD-00624,2025-06-28,Customer_0410,Multan,Travel Mug,Accessories,1,5100,5100,985.23,Bank Transfer
+ORD-00281,2025-06-29,Customer_0226,Karachi,Backpack,Accessories,1,1500,1500,169.73,Card
+ORD-00015,2025-06-29,Customer_0081,Peshawar,Coffee Maker,Home,2,7000,14000,1180.51,Card
+ORD-00183,2025-06-29,Customer_0322,Islamabad,Travel Mug,Accessories,2,5600,11200,2001.45,EasyPaisa
+ORD-00873,2025-06-29,Customer_0147,Faisalabad,Wallet,Accessories,2,1200,2400,366.35,EasyPaisa
+ORD-00695,2025-06-30,Customer_0146,Islamabad,Makeup Kit,Beauty,1,5200,5200,1341.97,Card
+ORD-00925,2025-06-30,Customer_0382,Karachi,Keyboard,Electronics,1,17400,17400,4275.58,Bank Transfer
+ORD-00134,2025-07-01,Customer_0121,Islamabad,Face Wash,Beauty,4,4400,17600,2726.11,JazzCash
+ORD-00264,2025-07-01,Customer_0272,Peshawar,Bluetooth Speaker,Electronics,2,13000,26000,3111.59,EasyPaisa
+ORD-00621,2025-07-01,Customer_0247,Islamabad,Storage Box,Home,1,8000,8000,1993.68,Cash on Delivery
+ORD-00460,2025-07-01,Customer_0018,Faisalabad,Keyboard,Electronics,1,27400,27400,4369.62,Bank Transfer
+ORD-00892,2025-07-02,Customer_0374,Rawalpindi,Table Lamp,Home,1,10300,10300,2363.58,Card
+ORD-00896,2025-07-02,Customer_0089,Lahore,Wireless Earbuds,Electronics,2,11600,23200,4725.72,JazzCash
+ORD-00256,2025-07-02,Customer_0380,Rawalpindi,Table Lamp,Home,1,1900,1900,163.78,JazzCash
+ORD-00631,2025-07-02,Customer_0302,Islamabad,Keyboard,Electronics,2,4100,8200,1819.45,Cash on Delivery
+ORD-00987,2025-07-02,Customer_0212,Karachi,Bluetooth Speaker,Electronics,1,12900,12900,3418.28,JazzCash
+ORD-00842,2025-07-02,Customer_0318,Rawalpindi,Face Wash,Beauty,1,6100,6100,602.11,Bank Transfer
+ORD-00780,2025-07-02,Customer_0402,Karachi,Face Wash,Beauty,2,6200,12400,1664.42,Card
+ORD-00357,2025-07-03,Customer_0445,Peshawar,Skin Serum,Beauty,5,3700,18500,2615.06,Cash on Delivery
+ORD-00990,2025-07-03,Customer_0335,Karachi,Coffee Maker,Home,2,12300,24600,6499.14,JazzCash
+ORD-00477,2025-07-03,Customer_0415,Peshawar,Vacuum Cleaner,Home,1,12400,12400,2751.34,Card
+ORD-00551,2025-07-04,Customer_0234,Karachi,Power Bank,Electronics,3,11300,33900,6722.29,EasyPaisa
+ORD-00936,2025-07-05,Customer_0341,Lahore,Perfume,Beauty,2,4800,9600,902.17,EasyPaisa
+ORD-00376,2025-07-06,Customer_0080,Lahore,Power Bank,Electronics,2,10800,21600,2441.14,EasyPaisa
+ORD-00373,2025-07-07,Customer_0075,Multan,Perfume,Beauty,3,2300,6900,1596.55,Card
+ORD-00018,2025-07-07,Customer_0496,Karachi,Power Bank,Electronics,1,3000,3000,689.16,JazzCash
+ORD-00726,2025-07-07,Customer_0179,Multan,Storage Box,Home,2,8900,17800,1605.4,EasyPaisa
+ORD-00114,2025-07-08,Customer_0342,Karachi,Backpack,Accessories,5,800,4000,857.81,EasyPaisa
+ORD-00452,2025-07-08,Customer_0488,Peshawar,Coffee Maker,Home,1,8600,8600,1109.86,Cash on Delivery
+ORD-00864,2025-07-08,Customer_0463,Karachi,Table Lamp,Home,1,5800,5800,480.78,EasyPaisa
+ORD-00204,2025-07-08,Customer_0428,Lahore,Power Bank,Electronics,1,22300,22300,5190.74,Card
+ORD-00979,2025-07-08,Customer_0363,Rawalpindi,Power Bank,Electronics,2,18500,37000,9641.78,Bank Transfer
+ORD-00911,2025-07-09,Customer_0128,Islamabad,Keyboard,Electronics,2,20900,41800,6533.59,EasyPaisa
+ORD-00163,2025-07-09,Customer_0384,Multan,Keyboard,Electronics,1,21400,21400,3467.01,Cash on Delivery
+ORD-00816,2025-07-10,Customer_0260,Islamabad,Table Lamp,Home,2,15900,31800,4736.76,JazzCash
+ORD-00287,2025-07-11,Customer_0262,Lahore,Coffee Maker,Home,1,8300,8300,724.13,Cash on Delivery
+ORD-00771,2025-07-12,Customer_0463,Islamabad,Wireless Earbuds,Electronics,1,15100,15100,3219.72,EasyPaisa
+ORD-00619,2025-07-12,Customer_0309,Multan,Keyboard,Electronics,1,20900,20900,4225.77,EasyPaisa
+ORD-00643,2025-07-12,Customer_0207,Rawalpindi,Power Bank,Electronics,1,2400,2400,257.5,EasyPaisa
+ORD-00691,2025-07-12,Customer_0420,Faisalabad,Coffee Maker,Home,2,13800,27600,4252.21,Bank Transfer
+ORD-00059,2025-07-13,Customer_0011,Karachi,Vacuum Cleaner,Home,4,4400,17600,1495.38,Bank Transfer
+ORD-00874,2025-07-13,Customer_0373,Lahore,Wireless Earbuds,Electronics,3,9000,27000,5613.5,Card
+ORD-00852,2025-07-13,Customer_0148,Islamabad,Smart Watch,Electronics,1,16500,16500,1668.72,JazzCash
+ORD-00476,2025-07-13,Customer_0098,Lahore,Smart Watch,Electronics,4,16100,64400,17157.62,Card
+ORD-00153,2025-07-13,Customer_0364,Peshawar,Smart Watch,Electronics,2,6400,12800,1723.98,EasyPaisa
+ORD-00415,2025-07-13,Customer_0027,Karachi,Air Fryer,Home,2,2000,4000,652.54,Bank Transfer
+ORD-00212,2025-07-14,Customer_0225,Karachi,Vacuum Cleaner,Home,1,5900,5900,755.49,EasyPaisa
+ORD-00502,2025-07-14,Customer_0484,Karachi,Power Bank,Electronics,1,9400,9400,1574.4,EasyPaisa
+ORD-00993,2025-07-14,Customer_0359,Rawalpindi,Power Bank,Electronics,1,27300,27300,4960.64,Cash on Delivery
+ORD-00808,2025-07-14,Customer_0186,Karachi,Air Fryer,Home,5,1600,8000,2222.51,Card
+ORD-00658,2025-07-14,Customer_0134,Rawalpindi,Face Wash,Beauty,1,5500,5500,1495.85,EasyPaisa
+ORD-00271,2025-07-14,Customer_0366,Lahore,Skin Serum,Beauty,2,2100,4200,875.96,JazzCash
+ORD-00552,2025-07-16,Customer_0366,Islamabad,Power Bank,Electronics,1,27500,27500,5336.06,Bank Transfer
+ORD-00599,2025-07-16,Customer_0307,Multan,Air Fryer,Home,2,2200,4400,777.27,Bank Transfer
+ORD-00416,2025-07-16,Customer_0236,Lahore,Bluetooth Speaker,Electronics,2,2000,4000,485.9,Card
+ORD-00147,2025-07-17,Customer_0309,Karachi,Face Wash,Beauty,2,2100,4200,477.85,Bank Transfer
+ORD-00910,2025-07-17,Customer_0476,Karachi,Face Wash,Beauty,1,3100,3100,849.47,Bank Transfer
+ORD-00437,2025-07-17,Customer_0446,Rawalpindi,Power Bank,Electronics,2,4900,9800,1630.65,JazzCash
+ORD-00355,2025-07-18,Customer_0224,Peshawar,Phone Case,Accessories,1,1100,1100,275.43,Bank Transfer
+ORD-00752,2025-07-18,Customer_0336,Karachi,Skin Serum,Beauty,2,4900,9800,822.6,EasyPaisa
+ORD-00473,2025-07-18,Customer_0484,Karachi,Air Fryer,Home,1,14800,14800,2397.69,EasyPaisa
+ORD-00606,2025-07-18,Customer_0386,Multan,Air Fryer,Home,1,3700,3700,952.24,Bank Transfer
+ORD-00833,2025-07-18,Customer_0389,Karachi,Wireless Earbuds,Electronics,3,7400,22200,3887.9,JazzCash
+ORD-00674,2025-07-18,Customer_0106,Multan,Sunglasses,Accessories,1,4900,4900,717.26,EasyPaisa
+ORD-00718,2025-07-19,Customer_0095,Faisalabad,Table Lamp,Home,1,3400,3400,493.06,EasyPaisa
+ORD-00871,2025-07-20,Customer_0350,Karachi,Smart Watch,Electronics,2,12800,25600,3840.92,Bank Transfer
+ORD-00572,2025-07-20,Customer_0482,Hyderabad,Makeup Kit,Beauty,1,7000,7000,700.46,EasyPaisa
+ORD-00555,2025-07-20,Customer_0218,Rawalpindi,Phone Case,Accessories,2,4200,8400,1436.05,Card
+ORD-00838,2025-07-20,Customer_0444,Karachi,Storage Box,Home,2,13400,26800,4411.1,Card
+ORD-00356,2025-07-21,Customer_0074,Lahore,Phone Case,Accessories,1,3900,3900,713.17,Card
+ORD-00326,2025-07-21,Customer_0475,Karachi,Sunglasses,Accessories,1,3600,3600,318.94,Card
+ORD-00121,2025-07-21,Customer_0186,Multan,Coffee Maker,Home,1,11400,11400,1866.54,EasyPaisa
+ORD-00433,2025-07-21,Customer_0341,Rawalpindi,Travel Mug,Accessories,1,5100,5100,1346.77,Cash on Delivery
+ORD-00817,2025-07-21,Customer_0154,Karachi,Storage Box,Home,1,12900,12900,2045.58,Bank Transfer
+ORD-00055,2025-07-22,Customer_0401,Multan,Travel Mug,Accessories,1,4700,4700,783.75,JazzCash
+ORD-00084,2025-07-22,Customer_0376,Lahore,Face Wash,Beauty,2,6900,13800,2524.25,EasyPaisa
+ORD-00884,2025-07-22,Customer_0287,Karachi,Power Bank,Electronics,1,3900,3900,853.66,Card
+ORD-00794,2025-07-23,Customer_0398,Karachi,Wireless Earbuds,Electronics,2,9800,19600,4009.58,Cash on Delivery
+ORD-00258,2025-07-23,Customer_0238,Faisalabad,Power Bank,Electronics,2,18000,36000,9548.51,JazzCash
+ORD-00344,2025-07-23,Customer_0225,Hyderabad,Air Fryer,Home,1,6900,6900,1374.81,Bank Transfer
+ORD-00346,2025-07-24,Customer_0016,Karachi,Makeup Kit,Beauty,5,6400,32000,7627.82,Cash on Delivery
+ORD-00932,2025-07-24,Customer_0456,Karachi,Power Bank,Electronics,1,26500,26500,2626.17,Card
+ORD-00523,2025-07-24,Customer_0218,Karachi,Smart Watch,Electronics,2,13400,26800,3408.38,Cash on Delivery
+ORD-00325,2025-07-25,Customer_0394,Peshawar,Travel Mug,Accessories,1,5300,5300,924.93,Bank Transfer
+ORD-00220,2025-07-25,Customer_0131,Faisalabad,Smart Watch,Electronics,2,23200,46400,9863.94,Cash on Delivery
+ORD-00253,2025-07-25,Customer_0386,Lahore,Smart Watch,Electronics,4,5800,23200,4785.17,EasyPaisa
+ORD-00131,2025-07-25,Customer_0267,Faisalabad,Power Bank,Electronics,3,26100,78300,21070.84,Bank Transfer
+ORD-00515,2025-07-25,Customer_0373,Lahore,Face Wash,Beauty,1,3700,3700,500.83,JazzCash
+ORD-00617,2025-07-25,Customer_0099,Lahore,Face Wash,Beauty,3,3600,10800,2372.86,Card
+ORD-00839,2025-07-26,Customer_0420,Karachi,Air Fryer,Home,1,17600,17600,3400.1,Bank Transfer
+ORD-00835,2025-07-26,Customer_0462,Rawalpindi,Smart Watch,Electronics,3,15200,45600,4110.83,Bank Transfer
+ORD-00158,2025-07-27,Customer_0322,Islamabad,Storage Box,Home,1,14600,14600,3716.9,JazzCash
+ORD-00078,2025-07-27,Customer_0344,Rawalpindi,Wireless Earbuds,Electronics,1,24200,24200,6076.58,JazzCash
+ORD-00688,2025-07-27,Customer_0063,Lahore,Hair Dryer,Beauty,1,2800,2800,284.88,Bank Transfer
+ORD-00899,2025-07-27,Customer_0472,Rawalpindi,Vacuum Cleaner,Home,2,6100,12200,1919.25,JazzCash
+ORD-00185,2025-07-28,Customer_0053,Karachi,Smart Watch,Electronics,1,18200,18200,4221.1,JazzCash
+ORD-00747,2025-07-28,Customer_0296,Karachi,Air Fryer,Home,4,5000,20000,3992.32,JazzCash
+ORD-00351,2025-07-28,Customer_0306,Karachi,Vacuum Cleaner,Home,2,9700,19400,2630.93,EasyPaisa
+ORD-00546,2025-07-29,Customer_0448,Faisalabad,Wireless Earbuds,Electronics,4,15700,62800,5821.98,Cash on Delivery
+ORD-00068,2025-07-29,Customer_0428,Hyderabad,Wireless Earbuds,Electronics,2,12100,24200,3704.43,EasyPaisa
+ORD-00710,2025-07-29,Customer_0248,Multan,Coffee Maker,Home,2,9400,18800,1542.52,EasyPaisa
+ORD-00783,2025-07-30,Customer_0217,Lahore,Skin Serum,Beauty,5,1600,8000,937.17,Bank Transfer
+ORD-00813,2025-07-31,Customer_0443,Faisalabad,Vacuum Cleaner,Home,4,8400,33600,5645.61,Cash on Delivery
+ORD-00509,2025-08-01,Customer_0180,Lahore,Bluetooth Speaker,Electronics,4,12600,50400,6959.94,Cash on Delivery
+ORD-00678,2025-08-01,Customer_0457,Islamabad,Wireless Earbuds,Electronics,2,11900,23800,5345.04,JazzCash
+ORD-00906,2025-08-01,Customer_0258,Peshawar,Smart Watch,Electronics,3,26100,78300,19337.59,EasyPaisa
+ORD-00022,2025-08-01,Customer_0433,Karachi,Skin Serum,Beauty,2,1500,3000,478.55,JazzCash
+ORD-00124,2025-08-02,Customer_0151,Karachi,Bluetooth Speaker,Electronics,1,4400,4400,470.53,EasyPaisa
+ORD-00394,2025-08-02,Customer_0352,Islamabad,Coffee Maker,Home,2,7200,14400,1420.47,Cash on Delivery
+ORD-00712,2025-08-02,Customer_0032,Rawalpindi,Sunglasses,Accessories,3,1800,5400,1136.0,Card
+ORD-00527,2025-08-02,Customer_0438,Karachi,Hair Dryer,Beauty,1,6200,6200,1104.09,JazzCash
+ORD-00782,2025-08-03,Customer_0303,Faisalabad,Keyboard,Electronics,2,10100,20200,3457.02,Bank Transfer
+ORD-00590,2025-08-03,Customer_0268,Islamabad,Travel Mug,Accessories,1,3400,3400,313.57,JazzCash
+ORD-00677,2025-08-04,Customer_0480,Peshawar,Smart Watch,Electronics,1,18600,18600,2945.9,EasyPaisa
+ORD-00829,2025-08-05,Customer_0055,Lahore,Air Fryer,Home,1,8100,8100,1052.66,Card
+ORD-00301,2025-08-05,Customer_0141,Karachi,Phone Case,Accessories,1,900,900,207.15,EasyPaisa
+ORD-00595,2025-08-05,Customer_0188,Karachi,Skin Serum,Beauty,1,4900,4900,1031.01,JazzCash
+ORD-00083,2025-08-06,Customer_0172,Karachi,Bluetooth Speaker,Electronics,3,2300,6900,902.06,EasyPaisa
+ORD-00489,2025-08-06,Customer_0178,Rawalpindi,Keyboard,Electronics,3,24000,72000,20155.89,Bank Transfer
+ORD-00328,2025-08-06,Customer_0346,Rawalpindi,Wallet,Accessories,2,2300,4600,464.84,EasyPaisa
+ORD-00102,2025-08-07,Customer_0307,Islamabad,Skin Serum,Beauty,1,6000,6000,1019.56,JazzCash
+ORD-00316,2025-08-07,Customer_0404,Lahore,Wireless Earbuds,Electronics,1,10500,10500,1495.42,Cash on Delivery
+ORD-00370,2025-08-08,Customer_0394,Karachi,Smart Watch,Electronics,3,12900,38700,6424.41,Card
+ORD-00089,2025-08-08,Customer_0253,Peshawar,Air Fryer,Home,1,8000,8000,1735.3,Card
+ORD-00659,2025-08-08,Customer_0120,Faisalabad,Travel Mug,Accessories,2,5300,10600,1937.04,Cash on Delivery
+ORD-00863,2025-08-08,Customer_0322,Karachi,Backpack,Accessories,1,2800,2800,708.21,EasyPaisa
+ORD-00581,2025-08-09,Customer_0368,Faisalabad,Coffee Maker,Home,2,13100,26200,6051.95,Card
+ORD-00692,2025-08-09,Customer_0211,Rawalpindi,Hair Dryer,Beauty,2,4800,9600,1909.57,EasyPaisa
+ORD-00981,2025-08-10,Customer_0029,Faisalabad,Bluetooth Speaker,Electronics,1,24600,24600,5745.36,EasyPaisa
+ORD-00648,2025-08-10,Customer_0341,Hyderabad,Air Fryer,Home,1,14500,14500,2168.25,Card
+ORD-00107,2025-08-11,Customer_0154,Karachi,Sunglasses,Accessories,1,600,600,96.01,EasyPaisa
+ORD-00869,2025-08-11,Customer_0155,Faisalabad,Smart Watch,Electronics,1,5100,5100,1249.72,JazzCash
+ORD-00194,2025-08-11,Customer_0262,Faisalabad,Hair Dryer,Beauty,2,4500,9000,796.59,JazzCash
+ORD-00108,2025-08-11,Customer_0089,Lahore,Travel Mug,Accessories,3,4000,12000,1761.87,JazzCash
+ORD-00368,2025-08-11,Customer_0019,Karachi,Vacuum Cleaner,Home,3,6800,20400,1849.61,Bank Transfer
+ORD-00157,2025-08-12,Customer_0417,Peshawar,Sunglasses,Accessories,3,3100,9300,1663.43,JazzCash
+ORD-00144,2025-08-12,Customer_0158,Karachi,Travel Mug,Accessories,1,5600,5600,1542.46,Cash on Delivery
+ORD-00531,2025-08-12,Customer_0265,Faisalabad,Air Fryer,Home,1,18000,18000,2454.36,Bank Transfer
+ORD-00228,2025-08-12,Customer_0296,Faisalabad,Makeup Kit,Beauty,3,2100,6300,1320.98,JazzCash
+ORD-00512,2025-08-12,Customer_0170,Faisalabad,Bluetooth Speaker,Electronics,1,26100,26100,4730.09,JazzCash
+ORD-00809,2025-08-13,Customer_0325,Karachi,Power Bank,Electronics,1,23200,23200,2329.48,Card
+ORD-00796,2025-08-13,Customer_0018,Peshawar,Skin Serum,Beauty,3,2300,6900,1850.68,Cash on Delivery
+ORD-00146,2025-08-14,Customer_0313,Peshawar,Travel Mug,Accessories,1,5700,5700,887.27,JazzCash
+ORD-00684,2025-08-14,Customer_0397,Karachi,Storage Box,Home,1,2400,2400,621.98,JazzCash
+ORD-00168,2025-08-14,Customer_0302,Faisalabad,Wireless Earbuds,Electronics,3,26400,79200,14690.93,Cash on Delivery
+ORD-00384,2025-08-15,Customer_0283,Lahore,Storage Box,Home,1,12800,12800,1748.43,Card
+ORD-00181,2025-08-16,Customer_0164,Karachi,Face Wash,Beauty,2,3500,7000,681.4,EasyPaisa
+ORD-00791,2025-08-16,Customer_0197,Hyderabad,Coffee Maker,Home,4,11700,46800,7133.95,EasyPaisa
+ORD-00671,2025-08-16,Customer_0030,Hyderabad,Smart Watch,Electronics,2,14700,29400,3277.19,Cash on Delivery
+ORD-00518,2025-08-17,Customer_0472,Multan,Makeup Kit,Beauty,1,700,700,129.96,Cash on Delivery
+ORD-00414,2025-08-17,Customer_0071,Lahore,Skin Serum,Beauty,2,6100,12200,2917.53,Card
+ORD-00640,2025-08-17,Customer_0099,Lahore,Bluetooth Speaker,Electronics,2,21700,43400,10534.73,Cash on Delivery
+ORD-00953,2025-08-18,Customer_0409,Karachi,Travel Mug,Accessories,1,5000,5000,662.32,Card
+ORD-00383,2025-08-18,Customer_0279,Islamabad,Perfume,Beauty,2,2800,5600,1147.29,Cash on Delivery
+ORD-00494,2025-08-18,Customer_0135,Multan,Makeup Kit,Beauty,2,5300,10600,1246.26,Bank Transfer
+ORD-00992,2025-08-20,Customer_0115,Peshawar,Bluetooth Speaker,Electronics,1,9800,9800,2530.92,Bank Transfer
+ORD-00533,2025-08-20,Customer_0176,Peshawar,Power Bank,Electronics,1,5600,5600,833.06,Cash on Delivery
+ORD-00189,2025-08-21,Customer_0340,Lahore,Storage Box,Home,1,3600,3600,609.32,EasyPaisa
+ORD-00449,2025-08-21,Customer_0357,Multan,Vacuum Cleaner,Home,3,14300,42900,8010.46,Bank Transfer
+ORD-00951,2025-08-21,Customer_0109,Rawalpindi,Skin Serum,Beauty,2,1900,3800,359.66,Bank Transfer
+ORD-00254,2025-08-22,Customer_0264,Faisalabad,Skin Serum,Beauty,4,3100,12400,2256.14,Cash on Delivery
+ORD-00834,2025-08-22,Customer_0352,Karachi,Wireless Earbuds,Electronics,1,19700,19700,4466.08,Card
+ORD-00167,2025-08-22,Customer_0081,Multan,Power Bank,Electronics,4,24100,96400,24435.93,Bank Transfer
+ORD-00575,2025-08-22,Customer_0154,Multan,Face Wash,Beauty,2,6700,13400,3664.67,JazzCash
+ORD-00954,2025-08-22,Customer_0151,Hyderabad,Air Fryer,Home,4,15600,62400,6097.88,Card
+ORD-00637,2025-08-22,Customer_0217,Islamabad,Wireless Earbuds,Electronics,3,11200,33600,7405.81,Cash on Delivery
+ORD-00614,2025-08-23,Customer_0147,Faisalabad,Smart Watch,Electronics,1,8300,8300,1402.76,Bank Transfer
+ORD-00385,2025-08-23,Customer_0036,Rawalpindi,Makeup Kit,Beauty,4,5100,20400,2787.89,EasyPaisa
+ORD-00110,2025-08-24,Customer_0153,Karachi,Power Bank,Electronics,2,12500,25000,2838.5,Bank Transfer
+ORD-00050,2025-08-25,Customer_0309,Rawalpindi,Perfume,Beauty,3,4600,13800,2519.16,Bank Transfer
+ORD-00744,2025-08-25,Customer_0320,Faisalabad,Sunglasses,Accessories,1,1700,1700,447.56,Cash on Delivery
+ORD-00408,2025-08-25,Customer_0500,Lahore,Storage Box,Home,1,12200,12200,2075.69,Cash on Delivery
+ORD-00042,2025-08-26,Customer_0341,Karachi,Face Wash,Beauty,1,5600,5600,1467.91,JazzCash
+ORD-00298,2025-08-26,Customer_0131,Karachi,Air Fryer,Home,2,12300,24600,6273.49,JazzCash
+ORD-00856,2025-08-26,Customer_0286,Multan,Hair Dryer,Beauty,3,5300,15900,4053.16,EasyPaisa
+ORD-00013,2025-08-26,Customer_0379,Karachi,Air Fryer,Home,1,6900,6900,1362.95,Card
+ORD-00689,2025-08-27,Customer_0047,Lahore,Keyboard,Electronics,4,26900,107600,22126.71,JazzCash
+ORD-00117,2025-08-27,Customer_0172,Multan,Smart Watch,Electronics,1,24400,24400,2404.65,Cash on Delivery
+ORD-00062,2025-08-27,Customer_0054,Hyderabad,Vacuum Cleaner,Home,1,13900,13900,1225.83,JazzCash
+ORD-00958,2025-08-27,Customer_0132,Lahore,Wireless Earbuds,Electronics,1,16300,16300,1543.88,EasyPaisa
+ORD-00224,2025-08-28,Customer_0400,Karachi,Bluetooth Speaker,Electronics,2,24800,49600,9296.75,JazzCash
+ORD-00847,2025-08-28,Customer_0178,Rawalpindi,Sunglasses,Accessories,2,3400,6800,1034.73,JazzCash
+ORD-00411,2025-08-29,Customer_0236,Islamabad,Bluetooth Speaker,Electronics,4,4300,17200,3159.92,Bank Transfer
+ORD-00731,2025-08-29,Customer_0464,Peshawar,Coffee Maker,Home,2,2700,5400,858.14,Card
+ORD-00130,2025-08-29,Customer_0185,Islamabad,Table Lamp,Home,1,3100,3100,489.24,Bank Transfer
+ORD-00875,2025-08-29,Customer_0366,Karachi,Power Bank,Electronics,2,12300,24600,4651.27,EasyPaisa
+ORD-00941,2025-08-30,Customer_0326,Islamabad,Skin Serum,Beauty,2,1500,3000,627.6,Card
+ORD-00501,2025-08-30,Customer_0320,Faisalabad,Bluetooth Speaker,Electronics,1,13300,13300,2135.55,Cash on Delivery
+ORD-00550,2025-08-31,Customer_0420,Karachi,Keyboard,Electronics,3,8400,25200,3300.7,Bank Transfer
+ORD-00650,2025-08-31,Customer_0291,Multan,Power Bank,Electronics,3,2100,6300,1242.84,Cash on Delivery
+ORD-00390,2025-08-31,Customer_0357,Islamabad,Keyboard,Electronics,4,18000,72000,8529.32,Card
+ORD-00714,2025-08-31,Customer_0493,Karachi,Storage Box,Home,1,3700,3700,411.61,Card
+ORD-00681,2025-08-31,Customer_0423,Islamabad,Table Lamp,Home,3,10200,30600,7271.01,Bank Transfer
+ORD-00261,2025-09-01,Customer_0353,Lahore,Vacuum Cleaner,Home,1,11600,11600,1742.84,EasyPaisa
+ORD-00105,2025-09-01,Customer_0367,Rawalpindi,Smart Watch,Electronics,1,10400,10400,1345.1,EasyPaisa
+ORD-00769,2025-09-02,Customer_0263,Lahore,Phone Case,Accessories,1,2600,2600,399.68,JazzCash
+ORD-00406,2025-09-02,Customer_0246,Islamabad,Backpack,Accessories,3,2700,8100,1944.13,Card
+ORD-00756,2025-09-03,Customer_0317,Karachi,Sunglasses,Accessories,2,5200,10400,2690.22,Bank Transfer
+ORD-00318,2025-09-03,Customer_0280,Faisalabad,Phone Case,Accessories,2,500,1000,181.45,JazzCash
+ORD-00072,2025-09-04,Customer_0336,Multan,Sunglasses,Accessories,3,4100,12300,3334.16,JazzCash
+ORD-00200,2025-09-04,Customer_0156,Lahore,Power Bank,Electronics,2,21500,43000,7912.62,Cash on Delivery
+ORD-00257,2025-09-05,Customer_0125,Faisalabad,Skin Serum,Beauty,2,1300,2600,725.69,Card
+ORD-00283,2025-09-05,Customer_0440,Karachi,Power Bank,Electronics,5,21200,106000,24090.71,JazzCash
+ORD-00918,2025-09-05,Customer_0133,Karachi,Smart Watch,Electronics,4,27900,111600,9735.75,Cash on Delivery
+ORD-00247,2025-09-05,Customer_0200,Karachi,Sunglasses,Accessories,1,3800,3800,561.33,Card
+ORD-00482,2025-09-06,Customer_0194,Islamabad,Table Lamp,Home,1,5400,5400,1028.58,JazzCash
+ORD-00994,2025-09-06,Customer_0038,Islamabad,Power Bank,Electronics,3,9400,28200,6238.51,Bank Transfer
+ORD-00520,2025-09-06,Customer_0083,Karachi,Hair Dryer,Beauty,3,2900,8700,1640.6,EasyPaisa
+ORD-00902,2025-09-07,Customer_0032,Peshawar,Vacuum Cleaner,Home,5,12200,61000,14837.56,Bank Transfer
+ORD-00251,2025-09-07,Customer_0249,Hyderabad,Power Bank,Electronics,1,3200,3200,667.08,JazzCash
+ORD-00456,2025-09-07,Customer_0237,Karachi,Bluetooth Speaker,Electronics,1,21300,21300,4701.92,EasyPaisa
+ORD-00784,2025-09-08,Customer_0206,Karachi,Sunglasses,Accessories,2,4600,9200,1338.06,EasyPaisa
+ORD-00818,2025-09-09,Customer_0093,Rawalpindi,Phone Case,Accessories,1,3500,3500,554.34,Card
+ORD-00600,2025-09-09,Customer_0234,Hyderabad,Bluetooth Speaker,Electronics,2,11700,23400,5704.19,JazzCash
+ORD-00580,2025-09-10,Customer_0086,Karachi,Backpack,Accessories,3,4100,12300,1958.52,Cash on Delivery
+ORD-00660,2025-09-10,Customer_0154,Lahore,Power Bank,Electronics,5,10900,54500,8655.1,JazzCash
+ORD-00962,2025-09-11,Customer_0214,Rawalpindi,Wallet,Accessories,1,3800,3800,854.6,Bank Transfer
+ORD-00539,2025-09-12,Customer_0477,Multan,Keyboard,Electronics,1,22200,22200,5906.01,Cash on Delivery
+ORD-00327,2025-09-12,Customer_0008,Karachi,Wireless Earbuds,Electronics,1,7800,7800,842.68,Card
+ORD-00986,2025-09-12,Customer_0377,Lahore,Bluetooth Speaker,Electronics,1,4300,4300,774.28,Cash on Delivery
+ORD-00010,2025-09-12,Customer_0084,Lahore,Bluetooth Speaker,Electronics,1,18300,18300,4984.55,Bank Transfer
+ORD-00322,2025-09-13,Customer_0488,Multan,Air Fryer,Home,1,7400,7400,1081.29,Card
+ORD-00011,2025-09-13,Customer_0383,Karachi,Sunglasses,Accessories,3,1000,3000,781.56,JazzCash
+ORD-00340,2025-09-13,Customer_0325,Hyderabad,Smart Watch,Electronics,2,26100,52200,10940.74,Cash on Delivery
+ORD-00764,2025-09-14,Customer_0313,Peshawar,Storage Box,Home,1,9700,9700,1499.5,Card
+ORD-00407,2025-09-14,Customer_0225,Karachi,Phone Case,Accessories,1,5500,5500,639.11,Card
+ORD-00602,2025-09-14,Customer_0086,Karachi,Makeup Kit,Beauty,1,5900,5900,1591.55,EasyPaisa
+ORD-00054,2025-09-15,Customer_0463,Lahore,Face Wash,Beauty,1,1700,1700,420.34,EasyPaisa
+ORD-00349,2025-09-15,Customer_0452,Multan,Table Lamp,Home,2,12700,25400,4563.74,Card
+ORD-00890,2025-09-15,Customer_0109,Faisalabad,Face Wash,Beauty,1,2600,2600,299.02,Bank Transfer
+ORD-00418,2025-09-15,Customer_0127,Hyderabad,Wallet,Accessories,3,4100,12300,3195.09,Bank Transfer
+ORD-00352,2025-09-16,Customer_0123,Hyderabad,Phone Case,Accessories,4,3500,14000,3263.05,JazzCash
+ORD-00230,2025-09-16,Customer_0108,Rawalpindi,Backpack,Accessories,1,500,500,112.95,Bank Transfer
+ORD-00562,2025-09-17,Customer_0463,Karachi,Bluetooth Speaker,Electronics,2,7700,15400,1443.71,EasyPaisa
+ORD-00431,2025-09-18,Customer_0159,Hyderabad,Table Lamp,Home,1,10600,10600,2178.19,Bank Transfer
+ORD-00715,2025-09-18,Customer_0201,Faisalabad,Table Lamp,Home,3,7100,21300,4263.8,Cash on Delivery
+ORD-00104,2025-09-20,Customer_0363,Islamabad,Air Fryer,Home,1,7100,7100,746.65,JazzCash
+ORD-00246,2025-09-20,Customer_0143,Rawalpindi,Skin Serum,Beauty,2,1300,2600,482.25,EasyPaisa
+ORD-00244,2025-09-20,Customer_0235,Rawalpindi,Travel Mug,Accessories,2,2900,5800,1341.1,Bank Transfer
+ORD-00330,2025-09-20,Customer_0273,Islamabad,Coffee Maker,Home,2,14000,28000,2388.28,Card
+ORD-00802,2025-09-20,Customer_0051,Rawalpindi,Sunglasses,Accessories,1,2300,2300,471.77,Bank Transfer
+ORD-00694,2025-09-21,Customer_0136,Islamabad,Bluetooth Speaker,Electronics,2,20300,40600,5447.1,EasyPaisa
+ORD-00616,2025-09-21,Customer_0468,Lahore,Wallet,Accessories,1,500,500,133.15,Bank Transfer
+ORD-00420,2025-09-22,Customer_0304,Islamabad,Bluetooth Speaker,Electronics,1,15400,15400,1547.28,JazzCash
+ORD-00276,2025-09-22,Customer_0055,Multan,Wireless Earbuds,Electronics,3,22700,68100,12599.77,Cash on Delivery
+ORD-00486,2025-09-24,Customer_0160,Multan,Smart Watch,Electronics,1,26700,26700,3624.31,Cash on Delivery
+ORD-00087,2025-09-24,Customer_0475,Multan,Skin Serum,Beauty,1,5700,5700,689.01,Card
+ORD-00862,2025-09-24,Customer_0431,Rawalpindi,Wireless Earbuds,Electronics,1,18400,18400,4145.84,Cash on Delivery
+ORD-00963,2025-09-25,Customer_0445,Hyderabad,Power Bank,Electronics,3,20200,60600,12861.87,EasyPaisa
+ORD-00751,2025-09-25,Customer_0184,Karachi,Storage Box,Home,2,17400,34800,6846.14,Card
+ORD-00914,2025-09-25,Customer_0061,Lahore,Wireless Earbuds,Electronics,1,20000,20000,2183.28,Card
+ORD-00716,2025-09-26,Customer_0420,Hyderabad,Air Fryer,Home,3,15600,46800,5292.7,Card
+ORD-00742,2025-09-27,Customer_0081,Karachi,Hair Dryer,Beauty,2,6200,12400,1231.38,Card
+ORD-00118,2025-09-27,Customer_0164,Karachi,Storage Box,Home,2,9200,18400,2238.84,EasyPaisa
+ORD-00647,2025-09-27,Customer_0352,Faisalabad,Wireless Earbuds,Electronics,2,24200,48400,12257.22,Bank Transfer
+ORD-00762,2025-09-28,Customer_0192,Rawalpindi,Face Wash,Beauty,1,5000,5000,1244.56,Card
+ORD-00763,2025-09-28,Customer_0339,Karachi,Smart Watch,Electronics,1,3200,3200,792.52,Cash on Delivery
+ORD-00303,2025-09-28,Customer_0057,Islamabad,Table Lamp,Home,1,5900,5900,918.03,Card
+ORD-00496,2025-09-28,Customer_0439,Karachi,Smart Watch,Electronics,1,8000,8000,1783.42,JazzCash
+ORD-00978,2025-09-29,Customer_0183,Faisalabad,Storage Box,Home,3,3500,10500,2550.51,Card
+ORD-00534,2025-09-29,Customer_0224,Karachi,Hair Dryer,Beauty,1,4900,4900,663.59,Cash on Delivery
+ORD-00893,2025-09-30,Customer_0037,Karachi,Coffee Maker,Home,1,13900,13900,2086.67,Bank Transfer
+ORD-00441,2025-09-30,Customer_0299,Karachi,Skin Serum,Beauty,2,3100,6200,698.65,Bank Transfer
+ORD-00622,2025-10-01,Customer_0316,Lahore,Bluetooth Speaker,Electronics,1,5900,5900,986.9,Card
+ORD-00103,2025-10-01,Customer_0227,Hyderabad,Phone Case,Accessories,2,4600,9200,1477.78,Card
+ORD-00806,2025-10-02,Customer_0377,Peshawar,Table Lamp,Home,4,11000,44000,11281.18,EasyPaisa
+ORD-00100,2025-10-02,Customer_0414,Multan,Face Wash,Beauty,4,700,2800,381.3,Bank Transfer
+ORD-00536,2025-10-02,Customer_0314,Rawalpindi,Sunglasses,Accessories,4,2500,10000,2438.16,EasyPaisa
+ORD-00240,2025-10-03,Customer_0281,Lahore,Table Lamp,Home,2,5800,11600,2216.19,Cash on Delivery
+ORD-00819,2025-10-03,Customer_0112,Islamabad,Keyboard,Electronics,1,26100,26100,6272.74,Cash on Delivery
+ORD-00405,2025-10-03,Customer_0337,Karachi,Storage Box,Home,2,5500,11000,2458.54,JazzCash
+ORD-00510,2025-10-04,Customer_0226,Lahore,Air Fryer,Home,5,12900,64500,16277.54,Bank Transfer
+ORD-00214,2025-10-04,Customer_0176,Hyderabad,Smart Watch,Electronics,2,15700,31400,7814.03,JazzCash
+ORD-00928,2025-10-04,Customer_0052,Peshawar,Power Bank,Electronics,2,3000,6000,1591.04,EasyPaisa
+ORD-00642,2025-10-04,Customer_0244,Lahore,Smart Watch,Electronics,2,5900,11800,2574.53,JazzCash
+ORD-00231,2025-10-04,Customer_0121,Islamabad,Wallet,Accessories,1,3800,3800,986.57,Card
+ORD-00372,2025-10-04,Customer_0290,Hyderabad,Backpack,Accessories,3,5600,16800,2940.7,EasyPaisa
+ORD-00967,2025-10-05,Customer_0204,Karachi,Table Lamp,Home,1,17400,17400,4422.25,JazzCash
+ORD-00061,2025-10-05,Customer_0258,Peshawar,Vacuum Cleaner,Home,4,15800,63200,10618.72,EasyPaisa
+ORD-00440,2025-10-05,Customer_0124,Islamabad,Wireless Earbuds,Electronics,1,13300,13300,3134.28,EasyPaisa
+ORD-00265,2025-10-05,Customer_0144,Islamabad,Makeup Kit,Beauty,1,5700,5700,1420.83,JazzCash
+ORD-00190,2025-10-05,Customer_0089,Islamabad,Wireless Earbuds,Electronics,1,6400,6400,582.32,Cash on Delivery
+ORD-00410,2025-10-07,Customer_0219,Multan,Power Bank,Electronics,1,10300,10300,2688.7,Cash on Delivery
+ORD-00226,2025-10-09,Customer_0145,Lahore,Vacuum Cleaner,Home,4,16500,66000,10944.11,Card
+ORD-00044,2025-10-09,Customer_0410,Faisalabad,Backpack,Accessories,1,4600,4600,947.61,JazzCash
+ORD-00737,2025-10-09,Customer_0180,Peshawar,Coffee Maker,Home,1,4300,4300,1139.89,JazzCash
+ORD-00542,2025-10-10,Customer_0297,Lahore,Wireless Earbuds,Electronics,2,14100,28200,4249.22,Cash on Delivery
+ORD-00178,2025-10-10,Customer_0205,Rawalpindi,Air Fryer,Home,2,13300,26600,4615.91,JazzCash
+ORD-00296,2025-10-11,Customer_0235,Karachi,Wireless Earbuds,Electronics,2,10600,21200,5571.45,JazzCash
+ORD-00162,2025-10-11,Customer_0290,Faisalabad,Power Bank,Electronics,3,7400,22200,1947.58,Bank Transfer
+ORD-00851,2025-10-11,Customer_0441,Karachi,Keyboard,Electronics,2,9100,18200,4587.02,Card
+ORD-00772,2025-10-12,Customer_0132,Lahore,Table Lamp,Home,1,10400,10400,1742.6,Bank Transfer
+ORD-00823,2025-10-14,Customer_0054,Lahore,Keyboard,Electronics,1,5400,5400,1140.0,JazzCash
+ORD-00722,2025-10-15,Customer_0490,Rawalpindi,Vacuum Cleaner,Home,3,12900,38700,4610.33,EasyPaisa
+ORD-00205,2025-10-15,Customer_0135,Rawalpindi,Power Bank,Electronics,5,2900,14500,2135.23,JazzCash
+ORD-00115,2025-10-15,Customer_0454,Multan,Table Lamp,Home,1,13900,13900,3594.63,JazzCash
+ORD-00560,2025-10-16,Customer_0288,Rawalpindi,Coffee Maker,Home,2,16600,33200,5809.98,Cash on Delivery
+ORD-00693,2025-10-16,Customer_0232,Lahore,Face Wash,Beauty,1,6400,6400,1759.69,Card
+ORD-00459,2025-10-16,Customer_0373,Multan,Skin Serum,Beauty,2,6500,13000,3337.23,JazzCash
+ORD-00347,2025-10-16,Customer_0194,Karachi,Storage Box,Home,3,11700,35100,9594.68,Bank Transfer
+ORD-00241,2025-10-17,Customer_0234,Faisalabad,Table Lamp,Home,3,10700,32100,8551.08,JazzCash
+ORD-00924,2025-10-17,Customer_0384,Rawalpindi,Power Bank,Electronics,1,9800,9800,2667.6,JazzCash
+ORD-00359,2025-10-17,Customer_0295,Lahore,Skin Serum,Beauty,4,3800,15200,2105.49,EasyPaisa
+ORD-00085,2025-10-18,Customer_0215,Islamabad,Wireless Earbuds,Electronics,1,25100,25100,6834.98,Card
+ORD-00565,2025-10-18,Customer_0027,Multan,Air Fryer,Home,2,11100,22200,2587.31,Bank Transfer
+ORD-00179,2025-10-18,Customer_0211,Karachi,Bluetooth Speaker,Electronics,1,23900,23900,2283.62,Cash on Delivery
+ORD-00025,2025-10-18,Customer_0168,Karachi,Wallet,Accessories,2,2600,5200,858.92,Card
+ORD-00432,2025-10-19,Customer_0392,Karachi,Vacuum Cleaner,Home,1,16900,16900,2693.71,JazzCash
+ORD-00278,2025-10-19,Customer_0078,Peshawar,Smart Watch,Electronics,3,11100,33300,3564.57,Cash on Delivery
+ORD-00413,2025-10-19,Customer_0203,Peshawar,Sunglasses,Accessories,5,4900,24500,6412.23,Bank Transfer
+ORD-00466,2025-10-20,Customer_0341,Karachi,Sunglasses,Accessories,1,3700,3700,411.2,Cash on Delivery
+ORD-00848,2025-10-20,Customer_0397,Lahore,Table Lamp,Home,1,14600,14600,3535.26,Cash on Delivery
+ORD-00966,2025-10-20,Customer_0253,Karachi,Travel Mug,Accessories,3,5600,16800,2674.17,EasyPaisa
+ORD-00065,2025-10-20,Customer_0454,Karachi,Hair Dryer,Beauty,2,3900,7800,670.19,Bank Transfer
+ORD-00781,2025-10-21,Customer_0349,Lahore,Power Bank,Electronics,1,19800,19800,1705.22,Card
+ORD-00273,2025-10-22,Customer_0334,Lahore,Vacuum Cleaner,Home,1,14400,14400,3723.57,Card
+ORD-00421,2025-10-22,Customer_0047,Karachi,Wireless Earbuds,Electronics,2,21500,43000,5181.37,EasyPaisa
+ORD-00391,2025-10-23,Customer_0118,Faisalabad,Power Bank,Electronics,1,19300,19300,4708.76,Card
+ORD-00323,2025-10-24,Customer_0145,Faisalabad,Bluetooth Speaker,Electronics,1,23000,23000,4064.15,EasyPaisa
+ORD-00135,2025-10-24,Customer_0123,Islamabad,Smart Watch,Electronics,5,17700,88500,9175.66,Card
+ORD-00545,2025-10-24,Customer_0001,Multan,Smart Watch,Electronics,4,8900,35600,6020.67,EasyPaisa
+ORD-00748,2025-10-25,Customer_0408,Lahore,Keyboard,Electronics,1,15500,15500,4055.85,Card
+ORD-00099,2025-10-26,Customer_0186,Faisalabad,Backpack,Accessories,1,2400,2400,573.34,Card
+ORD-00665,2025-10-26,Customer_0375,Karachi,Power Bank,Electronics,2,4400,8800,1252.03,Bank Transfer
+ORD-00745,2025-10-26,Customer_0367,Faisalabad,Phone Case,Accessories,1,3100,3100,551.27,Cash on Delivery
+ORD-00262,2025-10-27,Customer_0156,Islamabad,Travel Mug,Accessories,1,5000,5000,1302.15,EasyPaisa
+ORD-00988,2025-10-27,Customer_0129,Rawalpindi,Keyboard,Electronics,1,11200,11200,1687.72,Bank Transfer
+ORD-00169,2025-10-27,Customer_0311,Faisalabad,Face Wash,Beauty,1,3900,3900,620.18,Bank Transfer
+ORD-00300,2025-10-27,Customer_0457,Lahore,Makeup Kit,Beauty,2,2000,4000,398.46,Card
+ORD-00335,2025-10-27,Customer_0096,Karachi,Power Bank,Electronics,2,19400,38800,6151.43,Cash on Delivery
+ORD-00064,2025-10-28,Customer_0028,Karachi,Sunglasses,Accessories,1,4800,4800,1214.84,Bank Transfer
+ORD-00150,2025-10-28,Customer_0374,Rawalpindi,Keyboard,Electronics,1,18500,18500,3931.36,EasyPaisa
+ORD-00027,2025-10-29,Customer_0462,Lahore,Wireless Earbuds,Electronics,4,6100,24400,2055.2,Cash on Delivery
+ORD-00727,2025-10-29,Customer_0105,Islamabad,Sunglasses,Accessories,2,5500,11000,1667.15,Cash on Delivery
+ORD-00122,2025-10-29,Customer_0079,Islamabad,Face Wash,Beauty,1,4300,4300,400.83,Bank Transfer
+ORD-00425,2025-10-30,Customer_0231,Islamabad,Makeup Kit,Beauty,2,800,1600,384.06,Card
+ORD-00412,2025-10-30,Customer_0305,Faisalabad,Power Bank,Electronics,3,8800,26400,4665.14,Card
+ORD-00005,2025-10-31,Customer_0049,Faisalabad,Air Fryer,Home,3,7900,23700,2558.43,Bank Transfer
+ORD-00341,2025-11-01,Customer_0249,Islamabad,Bluetooth Speaker,Electronics,3,23100,69300,6941.25,JazzCash
+ORD-00140,2025-11-02,Customer_0142,Karachi,Phone Case,Accessories,3,3600,10800,1722.02,Cash on Delivery
+ORD-00379,2025-11-02,Customer_0210,Peshawar,Bluetooth Speaker,Electronics,2,26100,52200,11464.63,Bank Transfer
+ORD-00259,2025-11-02,Customer_0362,Karachi,Smart Watch,Electronics,1,13500,13500,2166.4,Cash on Delivery
+ORD-00136,2025-11-02,Customer_0354,Karachi,Hair Dryer,Beauty,3,3600,10800,1216.93,Bank Transfer
+ORD-00709,2025-11-03,Customer_0441,Multan,Wallet,Accessories,2,1500,3000,436.87,Bank Transfer
+ORD-00503,2025-11-03,Customer_0234,Peshawar,Wallet,Accessories,2,3800,7600,646.81,EasyPaisa
+ORD-00738,2025-11-03,Customer_0036,Islamabad,Wireless Earbuds,Electronics,2,5600,11200,1681.17,JazzCash
+ORD-00786,2025-11-03,Customer_0456,Rawalpindi,Coffee Maker,Home,1,4700,4700,1072.72,Card
+ORD-00843,2025-11-04,Customer_0327,Rawalpindi,Wireless Earbuds,Electronics,1,16200,16200,3215.37,JazzCash
+ORD-00554,2025-11-04,Customer_0419,Islamabad,Bluetooth Speaker,Electronics,3,21500,64500,5173.57,Bank Transfer
+ORD-00052,2025-11-04,Customer_0039,Karachi,Keyboard,Electronics,1,6300,6300,1546.24,Bank Transfer
+ORD-00275,2025-11-05,Customer_0107,Karachi,Smart Watch,Electronics,1,22300,22300,1930.89,EasyPaisa
+ORD-00583,2025-11-05,Customer_0058,Faisalabad,Hair Dryer,Beauty,1,2300,2300,548.24,Cash on Delivery
+ORD-00940,2025-11-05,Customer_0063,Islamabad,Perfume,Beauty,2,6100,12200,2605.8,Bank Transfer
+ORD-00093,2025-11-05,Customer_0202,Rawalpindi,Keyboard,Electronics,1,8400,8400,1907.02,Card
+ORD-00095,2025-11-05,Customer_0326,Karachi,Wireless Earbuds,Electronics,1,8200,8200,1212.49,Card
+ORD-00058,2025-11-05,Customer_0266,Islamabad,Keyboard,Electronics,3,15000,45000,6665.32,EasyPaisa
+ORD-00632,2025-11-05,Customer_0444,Hyderabad,Smart Watch,Electronics,2,15100,30200,6041.97,Cash on Delivery
+ORD-00759,2025-11-06,Customer_0451,Karachi,Power Bank,Electronics,2,11700,23400,3928.31,EasyPaisa
+ORD-00450,2025-11-07,Customer_0373,Hyderabad,Vacuum Cleaner,Home,1,9400,9400,2200.65,Cash on Delivery
+ORD-00504,2025-11-07,Customer_0391,Karachi,Keyboard,Electronics,2,7000,14000,3256.37,Card
+ORD-00820,2025-11-07,Customer_0315,Karachi,Makeup Kit,Beauty,4,2000,8000,964.33,JazzCash
+ORD-00269,2025-11-08,Customer_0044,Karachi,Sunglasses,Accessories,1,1900,1900,346.23,Card
+ORD-00236,2025-11-08,Customer_0236,Karachi,Bluetooth Speaker,Electronics,1,22600,22600,2486.59,Card
+ORD-00210,2025-11-08,Customer_0133,Islamabad,Air Fryer,Home,4,2100,8400,1072.62,Bank Transfer
+ORD-00880,2025-11-09,Customer_0278,Lahore,Wallet,Accessories,2,1200,2400,388.25,EasyPaisa
+ORD-00672,2025-11-09,Customer_0040,Lahore,Power Bank,Electronics,2,23800,47600,8086.83,EasyPaisa
+ORD-00500,2025-11-09,Customer_0245,Faisalabad,Smart Watch,Electronics,2,7700,15400,3126.91,Bank Transfer
+ORD-00164,2025-11-11,Customer_0370,Rawalpindi,Coffee Maker,Home,5,8200,41000,9264.49,EasyPaisa
+ORD-00586,2025-11-12,Customer_0481,Karachi,Travel Mug,Accessories,1,3500,3500,456.72,Bank Transfer
+ORD-00773,2025-11-12,Customer_0283,Karachi,Bluetooth Speaker,Electronics,3,12100,36300,4007.78,Bank Transfer
+ORD-00248,2025-11-12,Customer_0185,Faisalabad,Vacuum Cleaner,Home,1,3900,3900,1048.43,Card
+ORD-00353,2025-11-13,Customer_0298,Karachi,Coffee Maker,Home,2,3300,6600,1167.39,Bank Transfer
+ORD-00917,2025-11-13,Customer_0496,Rawalpindi,Keyboard,Electronics,2,12200,24400,3431.21,Card
+ORD-00026,2025-11-13,Customer_0266,Lahore,Makeup Kit,Beauty,1,1400,1400,278.44,Bank Transfer
+ORD-00393,2025-11-13,Customer_0136,Lahore,Keyboard,Electronics,1,16500,16500,4322.79,JazzCash
+ORD-00339,2025-11-13,Customer_0333,Peshawar,Wireless Earbuds,Electronics,1,19800,19800,2647.31,Card
+ORD-00930,2025-11-13,Customer_0043,Faisalabad,Air Fryer,Home,1,3200,3200,316.69,Cash on Delivery
+ORD-00568,2025-11-14,Customer_0316,Lahore,Perfume,Beauty,2,4300,8600,1324.49,Card
+ORD-00639,2025-11-15,Customer_0217,Rawalpindi,Face Wash,Beauty,1,1500,1500,180.49,EasyPaisa
+ORD-00282,2025-11-15,Customer_0210,Faisalabad,Smart Watch,Electronics,1,16400,16400,4340.47,Cash on Delivery
+ORD-00528,2025-11-16,Customer_0427,Multan,Phone Case,Accessories,1,1500,1500,339.42,JazzCash
+ORD-00888,2025-11-16,Customer_0020,Karachi,Air Fryer,Home,1,16000,16000,2850.51,EasyPaisa
+ORD-00092,2025-11-16,Customer_0053,Peshawar,Hair Dryer,Beauty,5,1600,8000,1524.64,JazzCash
+ORD-00578,2025-11-16,Customer_0491,Karachi,Backpack,Accessories,1,4500,4500,438.86,Card
+ORD-00458,2025-11-16,Customer_0352,Karachi,Wireless Earbuds,Electronics,3,6800,20400,1939.35,Bank Transfer
+ORD-00116,2025-11-17,Customer_0163,Karachi,Bluetooth Speaker,Electronics,2,3600,7200,1691.46,Cash on Delivery
+ORD-00667,2025-11-19,Customer_0413,Karachi,Power Bank,Electronics,1,20500,20500,5103.55,JazzCash
+ORD-00836,2025-11-19,Customer_0370,Multan,Sunglasses,Accessories,2,5400,10800,1211.07,Cash on Delivery
+ORD-00046,2025-11-19,Customer_0206,Faisalabad,Smart Watch,Electronics,1,6600,6600,1368.06,Cash on Delivery
+ORD-00574,2025-11-20,Customer_0384,Faisalabad,Bluetooth Speaker,Electronics,1,26800,26800,4184.84,JazzCash
+ORD-00734,2025-11-20,Customer_0144,Lahore,Wireless Earbuds,Electronics,1,25400,25400,6613.74,EasyPaisa
+ORD-00051,2025-11-20,Customer_0426,Peshawar,Perfume,Beauty,2,6000,12000,1238.06,Card
+ORD-00067,2025-11-20,Customer_0340,Karachi,Bluetooth Speaker,Electronics,1,20600,20600,3328.72,Cash on Delivery
+ORD-00487,2025-11-20,Customer_0469,Karachi,Air Fryer,Home,2,6300,12600,2609.04,EasyPaisa
+ORD-00302,2025-11-21,Customer_0225,Faisalabad,Smart Watch,Electronics,1,20400,20400,2589.46,EasyPaisa
+ORD-00427,2025-11-21,Customer_0256,Karachi,Phone Case,Accessories,2,4900,9800,2267.6,JazzCash
+ORD-00669,2025-11-21,Customer_0020,Rawalpindi,Face Wash,Beauty,1,6300,6300,1103.12,JazzCash
+ORD-00260,2025-11-22,Customer_0432,Rawalpindi,Skin Serum,Beauty,1,3300,3300,891.44,Cash on Delivery
+ORD-00976,2025-11-22,Customer_0404,Lahore,Travel Mug,Accessories,2,900,1800,232.09,Cash on Delivery
+ORD-00066,2025-11-23,Customer_0128,Rawalpindi,Coffee Maker,Home,3,15600,46800,7459.36,Bank Transfer
+ORD-00603,2025-11-23,Customer_0322,Karachi,Sunglasses,Accessories,3,5600,16800,1928.06,JazzCash
+ORD-00019,2025-11-23,Customer_0235,Islamabad,Wallet,Accessories,3,4600,13800,1828.39,Bank Transfer
+ORD-00799,2025-11-24,Customer_0200,Peshawar,Air Fryer,Home,3,17100,51300,12899.7,JazzCash
+ORD-00070,2025-11-24,Customer_0281,Karachi,Smart Watch,Electronics,4,15700,62800,8784.25,Bank Transfer
+ORD-00016,2025-11-24,Customer_0152,Karachi,Backpack,Accessories,1,4500,4500,1051.78,Card
+ORD-00801,2025-11-24,Customer_0201,Karachi,Air Fryer,Home,3,10500,31500,6223.79,Cash on Delivery
+ORD-00837,2025-11-25,Customer_0215,Islamabad,Power Bank,Electronics,2,27500,55000,5687.54,Bank Transfer
+ORD-00314,2025-11-25,Customer_0347,Karachi,Table Lamp,Home,2,15400,30800,4783.48,Cash on Delivery
+ORD-00701,2025-11-26,Customer_0095,Rawalpindi,Face Wash,Beauty,3,1000,3000,556.98,Card
+ORD-00891,2025-11-26,Customer_0349,Multan,Bluetooth Speaker,Electronics,4,8100,32400,4112.37,Bank Transfer
+ORD-00444,2025-11-26,Customer_0051,Multan,Keyboard,Electronics,2,16700,33400,4687.93,Bank Transfer
+ORD-00814,2025-11-26,Customer_0095,Multan,Makeup Kit,Beauty,1,1000,1000,144.69,JazzCash
+ORD-00760,2025-11-27,Customer_0011,Multan,Coffee Maker,Home,2,6400,12800,2560.0,JazzCash
+ORD-00186,2025-11-27,Customer_0079,Islamabad,Smart Watch,Electronics,3,28000,84000,11136.24,EasyPaisa
+ORD-00635,2025-11-27,Customer_0167,Peshawar,Travel Mug,Accessories,1,3200,3200,696.84,Card
+ORD-00687,2025-11-27,Customer_0044,Karachi,Keyboard,Electronics,2,11100,22200,4277.85,Bank Transfer
+ORD-00374,2025-11-28,Customer_0331,Islamabad,Wallet,Accessories,1,4900,4900,824.39,Card
+ORD-00367,2025-11-28,Customer_0124,Peshawar,Keyboard,Electronics,1,12800,12800,2498.1,EasyPaisa
+ORD-00983,2025-11-29,Customer_0349,Islamabad,Travel Mug,Accessories,1,3000,3000,549.1,Card
+ORD-00645,2025-11-29,Customer_0401,Multan,Coffee Maker,Home,1,12900,12900,2994.42,JazzCash
+ORD-00577,2025-11-29,Customer_0172,Faisalabad,Smart Watch,Electronics,2,12600,25200,5777.22,JazzCash
+ORD-00790,2025-11-29,Customer_0349,Karachi,Storage Box,Home,1,11100,11100,1565.24,Cash on Delivery
+ORD-00109,2025-11-30,Customer_0159,Peshawar,Bluetooth Speaker,Electronics,5,21300,106500,18242.43,JazzCash
+ORD-00170,2025-11-30,Customer_0388,Karachi,Makeup Kit,Beauty,2,5700,11400,2557.79,EasyPaisa
+ORD-00389,2025-11-30,Customer_0440,Faisalabad,Perfume,Beauty,5,6100,30500,3994.11,Card
+ORD-00765,2025-11-30,Customer_0305,Lahore,Power Bank,Electronics,2,8500,17000,3740.87,EasyPaisa
+ORD-00749,2025-12-01,Customer_0085,Islamabad,Table Lamp,Home,1,5900,5900,497.55,EasyPaisa
+ORD-00524,2025-12-01,Customer_0164,Lahore,Backpack,Accessories,2,2900,5800,1119.2,Card
+ORD-00310,2025-12-01,Customer_0196,Multan,Backpack,Accessories,2,1900,3800,433.15,JazzCash
+ORD-00467,2025-12-01,Customer_0082,Lahore,Makeup Kit,Beauty,2,2800,5600,754.54,Cash on Delivery
+ORD-00474,2025-12-01,Customer_0320,Lahore,Bluetooth Speaker,Electronics,4,21300,85200,17693.31,Bank Transfer
+ORD-00904,2025-12-01,Customer_0047,Lahore,Bluetooth Speaker,Electronics,2,9400,18800,1670.97,JazzCash
+ORD-00907,2025-12-01,Customer_0091,Islamabad,Sunglasses,Accessories,1,4200,4200,627.54,EasyPaisa
+ORD-00017,2025-12-01,Customer_0119,Karachi,Power Bank,Electronics,2,11500,23000,6223.34,Cash on Delivery
+ORD-00636,2025-12-02,Customer_0197,Faisalabad,Skin Serum,Beauty,1,6600,6600,1151.11,Card
+ORD-00079,2025-12-02,Customer_0485,Lahore,Smart Watch,Electronics,5,11300,56500,11308.29,EasyPaisa
+ORD-00041,2025-12-02,Customer_0273,Multan,Bluetooth Speaker,Electronics,5,24800,124000,34697.8,Cash on Delivery
+ORD-00277,2025-12-02,Customer_0294,Karachi,Skin Serum,Beauty,1,5000,5000,1391.0,Bank Transfer
+ORD-00728,2025-12-02,Customer_0450,Karachi,Sunglasses,Accessories,2,3900,7800,1778.05,Bank Transfer
+ORD-00321,2025-12-03,Customer_0371,Peshawar,Hair Dryer,Beauty,4,1100,4400,435.91,EasyPaisa
+ORD-00461,2025-12-03,Customer_0184,Hyderabad,Hair Dryer,Beauty,2,2100,4200,1153.54,EasyPaisa
+ORD-00132,2025-12-04,Customer_0490,Islamabad,Air Fryer,Home,1,10800,10800,2704.63,Cash on Delivery
+ORD-00014,2025-12-04,Customer_0224,Rawalpindi,Smart Watch,Electronics,2,2400,4800,463.42,Bank Transfer
+ORD-00305,2025-12-04,Customer_0223,Faisalabad,Table Lamp,Home,2,9100,18200,2361.18,Card
+ORD-00002,2025-12-05,Customer_0202,Rawalpindi,Air Fryer,Home,1,10700,10700,2207.76,JazzCash
+ORD-00630,2025-12-05,Customer_0475,Peshawar,Makeup Kit,Beauty,1,4800,4800,1310.54,JazzCash
+ORD-00291,2025-12-06,Customer_0214,Karachi,Storage Box,Home,1,17500,17500,3387.34,JazzCash
+ORD-00850,2025-12-07,Customer_0002,Lahore,Bluetooth Speaker,Electronics,2,15600,31200,2534.02,JazzCash
+ORD-00683,2025-12-08,Customer_0232,Islamabad,Makeup Kit,Beauty,2,6100,12200,2793.05,Cash on Delivery
+ORD-00039,2025-12-08,Customer_0307,Multan,Vacuum Cleaner,Home,1,13300,13300,3326.42,Card
+ORD-00332,2025-12-08,Customer_0393,Islamabad,Travel Mug,Accessories,1,1000,1000,142.24,EasyPaisa
+ORD-00221,2025-12-09,Customer_0130,Peshawar,Smart Watch,Electronics,1,17200,17200,1734.28,Cash on Delivery
+ORD-00463,2025-12-09,Customer_0461,Rawalpindi,Power Bank,Electronics,1,18100,18100,2407.38,JazzCash
+ORD-00434,2025-12-09,Customer_0438,Karachi,Power Bank,Electronics,3,3600,10800,2617.05,Card
+ORD-00889,2025-12-09,Customer_0060,Rawalpindi,Hair Dryer,Beauty,2,4500,9000,784.91,Cash on Delivery
+ORD-00517,2025-12-09,Customer_0434,Karachi,Sunglasses,Accessories,2,1200,2400,351.27,Card
+ORD-00777,2025-12-10,Customer_0339,Karachi,Coffee Maker,Home,2,13500,27000,5893.66,Bank Transfer
+ORD-00858,2025-12-11,Customer_0253,Multan,Skin Serum,Beauty,4,2300,9200,1024.54,Card
+ORD-00915,2025-12-11,Customer_0027,Karachi,Air Fryer,Home,1,5400,5400,553.87,EasyPaisa
+ORD-00800,2025-12-11,Customer_0167,Karachi,Vacuum Cleaner,Home,1,3700,3700,1000.53,JazzCash
+ORD-00138,2025-12-12,Customer_0113,Lahore,Bluetooth Speaker,Electronics,5,3900,19500,3233.2,JazzCash
+ORD-00950,2025-12-12,Customer_0212,Peshawar,Storage Box,Home,1,2800,2800,342.81,Card
+ORD-00758,2025-12-13,Customer_0108,Karachi,Face Wash,Beauty,1,900,900,138.05,Bank Transfer
+ORD-00945,2025-12-13,Customer_0199,Faisalabad,Air Fryer,Home,2,10500,21000,3141.1,Bank Transfer
+ORD-00866,2025-12-13,Customer_0207,Hyderabad,Power Bank,Electronics,1,7200,7200,1188.94,Cash on Delivery
+ORD-00830,2025-12-13,Customer_0373,Lahore,Makeup Kit,Beauty,2,2400,4800,714.72,Cash on Delivery
+ORD-00955,2025-12-15,Customer_0246,Lahore,Travel Mug,Accessories,2,3400,6800,744.93,Card
+ORD-00090,2025-12-15,Customer_0100,Karachi,Wireless Earbuds,Electronics,3,24900,74700,13774.86,Cash on Delivery
+ORD-00825,2025-12-16,Customer_0143,Hyderabad,Wireless Earbuds,Electronics,4,6200,24800,2243.42,Bank Transfer
+ORD-00634,2025-12-16,Customer_0233,Islamabad,Air Fryer,Home,2,8600,17200,3831.5,Card
+ORD-00035,2025-12-16,Customer_0204,Multan,Keyboard,Electronics,3,22600,67800,6712.87,Card
+ORD-00151,2025-12-17,Customer_0300,Lahore,Makeup Kit,Beauty,3,3600,10800,2473.64,Card
+ORD-00396,2025-12-17,Customer_0376,Hyderabad,Table Lamp,Home,1,17800,17800,2833.64,EasyPaisa
+ORD-00263,2025-12-17,Customer_0293,Karachi,Travel Mug,Accessories,2,2100,4200,538.7,JazzCash
+ORD-00913,2025-12-17,Customer_0492,Peshawar,Hair Dryer,Beauty,3,4500,13500,2833.83,Bank Transfer
+ORD-00378,2025-12-17,Customer_0331,Faisalabad,Wallet,Accessories,3,4700,14100,3840.37,JazzCash
+ORD-00184,2025-12-18,Customer_0295,Lahore,Vacuum Cleaner,Home,1,1500,1500,340.04,Cash on Delivery
+ORD-00921,2025-12-18,Customer_0154,Lahore,Bluetooth Speaker,Electronics,1,23900,23900,5473.76,Bank Transfer
+ORD-00308,2025-12-18,Customer_0270,Multan,Bluetooth Speaker,Electronics,3,25600,76800,10249.72,EasyPaisa
+ORD-00317,2025-12-18,Customer_0028,Karachi,Backpack,Accessories,2,900,1800,361.49,EasyPaisa
+ORD-00968,2025-12-19,Customer_0278,Peshawar,Smart Watch,Electronics,1,4700,4700,757.67,Card
+ORD-00364,2025-12-19,Customer_0387,Rawalpindi,Power Bank,Electronics,2,3400,6800,1270.75,Card
+ORD-00699,2025-12-19,Customer_0194,Karachi,Backpack,Accessories,1,500,500,45.78,EasyPaisa
+ORD-00696,2025-12-19,Customer_0443,Karachi,Coffee Maker,Home,2,6300,12600,3298.99,EasyPaisa
+ORD-00219,2025-12-20,Customer_0084,Multan,Perfume,Beauty,2,4400,8800,2340.09,Cash on Delivery
+ORD-00297,2025-12-20,Customer_0372,Karachi,Skin Serum,Beauty,1,2500,2500,291.66,Card
+ORD-00878,2025-12-20,Customer_0247,Rawalpindi,Smart Watch,Electronics,2,6500,13000,1657.07,EasyPaisa
+ORD-00004,2025-12-20,Customer_0453,Lahore,Hair Dryer,Beauty,2,3700,7400,1583.32,Bank Transfer
+ORD-00964,2025-12-20,Customer_0364,Karachi,Skin Serum,Beauty,2,5800,11600,1613.31,Bank Transfer
+ORD-00198,2025-12-20,Customer_0012,Faisalabad,Keyboard,Electronics,1,7600,7600,935.17,Bank Transfer
+ORD-00021,2025-12-21,Customer_0217,Islamabad,Hair Dryer,Beauty,1,5000,5000,906.33,Cash on Delivery
+ORD-00446,2025-12-22,Customer_0450,Rawalpindi,Sunglasses,Accessories,2,700,1400,342.86,EasyPaisa
+ORD-00822,2025-12-22,Customer_0417,Rawalpindi,Air Fryer,Home,1,15600,15600,3781.34,EasyPaisa
+ORD-00242,2025-12-22,Customer_0099,Lahore,Makeup Kit,Beauty,2,4000,8000,2130.34,Card
+ORD-00702,2025-12-23,Customer_0198,Karachi,Keyboard,Electronics,1,27100,27100,5167.28,EasyPaisa
+ORD-00142,2025-12-23,Customer_0181,Multan,Backpack,Accessories,1,5400,5400,1481.55,JazzCash
+ORD-00703,2025-12-24,Customer_0464,Lahore,Sunglasses,Accessories,1,3900,3900,1013.76,Card
+ORD-00821,2025-12-25,Customer_0352,Karachi,Wireless Earbuds,Electronics,1,11500,11500,3130.15,Card
+ORD-00290,2025-12-25,Customer_0323,Rawalpindi,Keyboard,Electronics,5,4100,20500,3362.34,EasyPaisa
+ORD-00171,2025-12-26,Customer_0178,Lahore,Backpack,Accessories,2,5300,10600,1450.19,EasyPaisa
+ORD-00761,2025-12-26,Customer_0209,Islamabad,Backpack,Accessories,3,2300,6900,1789.26,Card
+ORD-00227,2025-12-27,Customer_0010,Lahore,Perfume,Beauty,2,3900,7800,1980.2,Cash on Delivery
+ORD-00973,2025-12-27,Customer_0025,Islamabad,Makeup Kit,Beauty,2,2300,4600,1232.69,Bank Transfer
+ORD-00685,2025-12-28,Customer_0071,Faisalabad,Perfume,Beauty,2,3300,6600,1786.62,Bank Transfer
+ORD-00666,2025-12-28,Customer_0252,Rawalpindi,Perfume,Beauty,2,6700,13400,2208.93,Card
+ORD-00865,2025-12-28,Customer_0096,Karachi,Bluetooth Speaker,Electronics,1,11700,11700,2444.98,Bank Transfer
+ORD-00767,2025-12-28,Customer_0348,Rawalpindi,Air Fryer,Home,1,14200,14200,2589.23,JazzCash
+ORD-00996,2025-12-29,Customer_0415,Multan,Bluetooth Speaker,Electronics,2,14300,28600,4207.27,Card
+ORD-00882,2025-12-29,Customer_0003,Rawalpindi,Wallet,Accessories,4,4800,19200,4977.72,JazzCash
+ORD-00654,2025-12-29,Customer_0385,Faisalabad,Bluetooth Speaker,Electronics,1,6300,6300,1440.01,Cash on Delivery
+ORD-00903,2025-12-29,Customer_0217,Peshawar,Smart Watch,Electronics,2,15500,31000,2970.62,Card
+ORD-00187,2025-12-29,Customer_0055,Hyderabad,Coffee Maker,Home,2,16900,33800,8333.98,Card
+ORD-00929,2025-12-29,Customer_0026,Islamabad,Wallet,Accessories,2,2700,5400,517.89,Cash on Delivery
+ORD-00579,2025-12-29,Customer_0066,Islamabad,Travel Mug,Accessories,1,5000,5000,863.03,JazzCash
+ORD-00538,2025-12-30,Customer_0296,Karachi,Bluetooth Speaker,Electronics,2,19700,39400,9684.82,Card
+ORD-00479,2025-12-31,Customer_0110,Peshawar,Power Bank,Electronics,4,24500,98000,21257.21,Card
+ORD-00750,2025-12-31,Customer_0045,Faisalabad,Sunglasses,Accessories,3,4100,12300,1043.16,Cash on Delivery
